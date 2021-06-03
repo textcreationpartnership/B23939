@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scriptural and rational account of the Christian religion particularly concerning justification only by the propitiation and redemption of the Lord Jesus Christ / by Sir Edward Harley.</title>
+            <author>Harley, Edward, Sir, 1624-1700.</author>
+         </titleStmt>
+         <extent>Approx. 111KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23939</idno><idno type="EEBO-CITATION">18283673</idno>
+  <idno type="VID">206472</idno>
+  <idno type="EEBO-PROQUEST">2240905249</idno>
+  
+            <idno type="STC">Wing H779</idno>
+            <idno type="OCLC">18283673</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206472)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1635:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scriptural and rational account of the Christian religion particularly concerning justification only by the propitiation and redemption of the Lord Jesus Christ / by Sir Edward Harley.</title>
+                  <author>Harley, Edward, Sir, 1624-1700.</author>
+               </titleStmt>
+               <extent>x, 11-118, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Luntley ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped, faded, tightly bound and torn, with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Justification.</term>
+               <term type="topical_term">Redemption.</term>
+               <term type="topical_term">Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206472:1"/>
+            <p>A Scriptural and Rational ACCOUNT OF THE Christian RELIGION; PARTICULARLY, Concerning Justification only by the Propitiation and Redemption of the Lord Jesus Christ.</p>
+            <p>By Sir <hi>EDWARD HARLEY.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Rom. 5.1, 2.</hi>
+               </bibl> Therefore being justified by Faith, we have Peace with God through our Lord Jesus Christ. By whom also we have Access by Faith into this Grace wherein we stand, and rejoice in hope of the Glory of God.</q>
+            <q>
+               <bibl>
+                  <hi>Psal. 14.1, 2.</hi>
+               </bibl> The Fool hath said in his Heart, There is no God: they are corrupt, they have done abominable Works, there is none that doth good. The Lord looked down from Heaven upon the Children of Men; to see if there were any that did understand, and seek God.</q>
+            <q>
+               <bibl>
+                  <hi>Deut. 32.6.</hi>
+               </bibl> Do ye thus requite the Lord, O foolish and unwise? Is not he thy Father that hath bought thee? Hath he not made thee, and established thee?</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. Luntley,</hi> at the Pestle and Mortar in <hi>Chancery-lane.</hi> 1695.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:206472:2"/>
+            <pb n="iii" facs="tcp:206472:2"/>
+            <head>THE PREFACE.</head>
+            <p>IT was the usual Saying of an excellent Person, <hi>That va<g ref="char:EOLhyphen"/>riety of Books [tho upon the same Subject] concerning the Principles of Religion was very advantagious, that every one might be furnished with a Weapon fitted to his Hand.</hi> For <hi>as in Water Face answer<g ref="char:EOLhyphen"/>eth to Face;
+<note place="margin">Prov. 27.19.</note> so the Heart of Man to Man:</hi> As in general, so in particular respects.</p>
+            <p>Therefore it may be hoped that in the perusing of the following Discourse; some also may be
+<pb n="iv" facs="tcp:206472:3"/>gratified with the Agreeableness of a plain Representation of so great a Truth. An Interest in Re<g ref="char:EOLhyphen"/>demption by the Satisfaction of the Death of our Lord Jesus Christ, is that by which every Christian must stand or <hi>fall</hi> before the dreadful Tribunal of the Justice of God. Accordingly the Principle of Ju<g ref="char:EOLhyphen"/>stification by the Sufferings, Death, Resurrection, and Righteousness of Jesus Christ, is the Article of Faith by which every Church must stand or <hi>fall;</hi> It being the <hi>Pillar</hi> and Ground of <hi>Truth,</hi> the Rock upon which our Lord hath built his Church, against which the Gates of Hell cannot prevail. This is the Rock upon which the Reformed Churches were recovered from An<g ref="char:EOLhyphen"/>tichristian Apostacy.
+<note place="margin">1 Cor. 4.11, 12.</note>
+               <hi>For other Foundation can no Man lay
+<pb n="v" facs="tcp:206472:3"/>than that is laid, which is Jesus Christ.</hi>
+               <note place="margin">1 Pet. 2.6.</note> But instead of building upon this precious Corner-Stone with precious Stones,
+<note place="margin">Zech. 4.7,</note> to bring up the head-Stone with Praise to Divine Grace; many unhappily have not taken heed how they build with Wood, Hay, Stubble, Ma<g ref="char:EOLhyphen"/>terials for fewel of Contention, to make <hi>Jerusalem Babylon,</hi>
+               <note place="margin">Psal. 87.3.</note> and defeat the glorious Things spoken of the City of God.
+<note place="margin">Isa. 62.7. Psal. 48.2. Isa. 32.17. Jam. 3.18. Rom. 5.1.</note> That <hi>Je<g ref="char:EOLhyphen"/>rusalem</hi> might be a Praise, and the Joy of the whole Earth: For Peace is the Fruit of Righ<g ref="char:EOLhyphen"/>teousness.</p>
+            <p>But this must be for a Lamen<g ref="char:EOLhyphen"/>tation and Prognostick of Deso<g ref="char:EOLhyphen"/>lation, if not prevented by in<g ref="char:EOLhyphen"/>finite Grace and Mercy; that after so many Years Gospel-Light there should be regard to false
+<pb n="vi" facs="tcp:206472:4"/>Teachers,
+<note place="margin">2 Pet. 2.1.</note> privily bringing in dam<g ref="char:EOLhyphen"/>nable Heresies, <hi>even denying the Lord that bought them.</hi> Privily indeed, pretending an In<g ref="char:EOLhyphen"/>quiry after sensible Ideas of spi<g ref="char:EOLhyphen"/>ritual and supernatural Truths <hi>of Eternal Life:</hi> Whereas they are not able to give an Idea of the Breath of Natural Life. Suborning also a Spectre of Ra<g ref="char:EOLhyphen"/>tional Demonstration to determine and judg Things invisible, which can only be the Objects of Faith <hi>in the Word of God:</hi> Where<g ref="char:EOLhyphen"/>as the use of right Reason is mi<g ref="char:EOLhyphen"/>serably lost and overwhelmed in the Ruins of Apostacy from God.</p>
+            <q>Vanity now possessing the Mind, the Understanding being dark<g ref="char:EOLhyphen"/>ned,
+<note place="margin">Ephes. 4.17, 18.</note> and alienated from the Life of God, through the Ig<g ref="char:EOLhyphen"/>norance that is in them, be<g ref="char:EOLhyphen"/>cause
+<pb n="vii" facs="tcp:206472:4"/>of the Blindness and Hardness of their Hearts: Thus being past feeling, they give themselves over to Lasci<g ref="char:EOLhyphen"/>viousness, and to work all Uncleanness with Greediness. For the Heart is deceitful above all things, and despe<g ref="char:EOLhyphen"/>rately wicked, even in these pretended Rationalists as well as others.</q>
+            <p>That this is the true State and Temper of the universality of Mankind, is undeniably evinced, by the continual Practice and Conversation of all the World in all Ages and Countries.</p>
+            <p>Therefore Natural right Rea<g ref="char:EOLhyphen"/>son is no where to be found di<g ref="char:EOLhyphen"/>recting the Tenor and entire Com<g ref="char:EOLhyphen"/>pass of Human Affections and Actions.</p>
+            <pb n="viii" facs="tcp:206472:5"/>
+            <p>But those baptized Epicures (as they are termed by the most Worthy and Honourable Mr. <hi>Boyle</hi>) that strut under the Name of Deists, but are indeed Atheists, without God in the World, renouncing the Provi<g ref="char:EOLhyphen"/>dence of God, rejecting the Justice of God, denying the Immortali<g ref="char:EOLhyphen"/>ty of the Soul, and the Future State of Rewards and Punish<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Thus Mankind is subjected to a Baseness and Wretchedness, in<g ref="char:EOLhyphen"/>ferior to the worst of Brutes: And thereby also rescinding the Bond of Security and Peace among all Human Societies and Relations, which can only consist in the Fear of God. Such happy Insects who desire to live apace may receive their own Idea from Mr. <hi>Cowley.</hi>
+            </p>
+            <pb n="ix" facs="tcp:206472:5"/>
+            <q>
+               <l>
+                  <hi>After Death I nothing crave,</hi>
+                  <note place="margin">Epicure.</note>
+               </l>
+               <l>
+                  <hi>Let me alive my Pleasures have.</hi>
+               </l>
+               <l>
+                  <hi>Happy Insect, happy thou,</hi>
+                  <note place="margin">Grashopper.</note>
+               </l>
+               <l>
+                  <hi>Dost neither Age nor Win<g ref="char:EOLhyphen"/>ter know;</hi>
+               </l>
+               <l>
+                  <hi>But when thou'st drunk, and danc'd, and sung</hi>
+               </l>
+               <l>
+                  <hi>Thy fill, thy flow'ry Leaves among,</hi>
+               </l>
+               <l>
+                  <hi>(Voluptuous and wise withal Epicurean Animal)</hi>
+               </l>
+               <l>
+                  <hi>Satiated with thy Summer's Feast,</hi>
+               </l>
+               <l>
+                  <hi>Thou retir'st to endless Rest.</hi>
+               </l>
+            </q>
+            <p>But this is the certain Con<g ref="char:EOLhyphen"/>viction and inevitable Doom of
+<pb n="x" facs="tcp:206472:6"/>
+               <hi>such Men,</hi>
+               <note place="margin">Eccles. 9.3.</note>
+               <hi>That</hi> the Heart of the Sons of Men is full of Evil, and Madness is in their Heart while they live, and after that they go to the Dead.
+<note place="margin">Heb. 9.27.</note> But as it is appoin<g ref="char:EOLhyphen"/>ted unto Men once to die, so after this the Judgment.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="11-64" type="pages">
+               <pb n="11" facs="tcp:206472:6"/>
+               <head>A Scriptural and Ratio<g ref="char:EOLhyphen"/>nal Account of the Christian Religion.</head>
+               <p>THE invisible Things of God from the Creation of the World are clearly seen,
+<note place="margin">Rom. 1.20.</note> being understood by the Things that are made, even his Eternal Power, and Godhead, so that all Men are without <hi>Ex<g ref="char:EOLhyphen"/>cuse.</hi>
+                  <note place="margin">Rom. 2.15</note>
+                  <hi>Consequently</hi> there is im<g ref="char:EOLhyphen"/>planted in every intellectual Mind a Conscience of Good and Evil, accusing or excusing, according to the Work of the Law written in their Hearts;
+<note place="margin">Act. 24.25.</note> so that there cannot but be Trembling at the Appre<g ref="char:EOLhyphen"/>hension of Judgment to come.</p>
+               <p>For the Elements of a Rational Creature are dependent upon the Creator for Life,
+<note place="margin">Deut. 30.20.</note> (God is our Life, and the Length of our Days)
+<pb n="12" facs="tcp:206472:7"/>and for a Rule of Action, which can be no other than the Will of God, the only Eternal Reason of Good and Evil: Not any thing being antecedently good to the Unchangable, Eternal, Holy Will of God.</p>
+               <p>Also for the End and Felicity of Being,
+<note place="margin">Prov. 16.4.</note> which is the Glory of God, <hi>including the Salvation of the Immortal Creature.</hi>
+               </p>
+               <p>God made Man upright in his Image,
+<note place="margin">Eccl. 7.29.</note> engraved his Mind with a Law,
+<note place="margin">Rom. 2.15.</note> holy, just and good; a Rule of perpetual Righteousness,
+<note place="margin">&amp; 1.12.</note> to di<g ref="char:EOLhyphen"/>rect and judg all Human Affecti<g ref="char:EOLhyphen"/>ons and Actions.
+<note place="margin">1 Joh. 3.4.</note> But Sin, which is the Transgression of the Law, alienated Man from the Life of God,
+<note place="margin">Eph. 4.18.</note> who thereby becoming va<g ref="char:EOLhyphen"/>pid and unprofitable,
+<note place="margin">Rom. 3.23.</note> fell misera<g ref="char:EOLhyphen"/>bly short of the Glory of God, subjected the Creature to Vanity,
+<note place="margin">Rom. 8.20.</note> Vexation and Death; renounced the all-sufficient Goodness, Truth and Soveraignty of the Infinite Almighty Creator, God blessed
+<pb n="13" facs="tcp:206472:7"/>for ever: Shall not then the Judg of all the World do right?</p>
+               <p>For according to his Fear due to his Infinite Perfections,
+<note place="margin">Psal. 90.11</note> and Absolute Dominions, such is his Wrath in the Execution of Vin<g ref="char:EOLhyphen"/>dictive Judgment upon all Sin<g ref="char:EOLhyphen"/>ners; so that if there could be an Intermission of this providential Circulation, an immediate <hi>Deli<g ref="char:EOLhyphen"/>quium</hi> of the Universe must ensue. The conscientious Awe of this be<g ref="char:EOLhyphen"/>ing the only real Security of Hu<g ref="char:EOLhyphen"/>man Relation and Society: There must then upon every hainous Offence be either Satisfaction to Justice, or the Execution of Justice.</p>
+               <p>Both which intirely and abso<g ref="char:EOLhyphen"/>lutely depend upon and proceed from the Will of God, which can<g ref="char:EOLhyphen"/>not be liable to any finite Thought or Assignation.
+<note place="margin">Isa. 40.13, 14.</note>
+                  <hi>Who hath di<g ref="char:EOLhyphen"/>rected the Spirit of the Lord, or being his Counsellor, hath taught him? With whom took he Counsel, and who hath instructed and taught
+<pb n="14" facs="tcp:206472:8"/>him in the Path of Judgment?</hi>
+                  <note place="margin">Rom. 11.33.</note>
+                  <hi>O the Depth of the Riches both of the Wisdom and Knowledg of God!</hi> the Riches of his Grace hath abounded towards us in all Wis<g ref="char:EOLhyphen"/>dom and Prudence;
+<note place="margin">Ephes. 1.7, 8, 9.</note>
+                  <hi>according to his Pleasure, which he hath pur<g ref="char:EOLhyphen"/>posed in himself.</hi>
+                  <note place="margin">Rom. 3.26. &amp; 4.5.</note>
+                  <hi>To declare his just,</hi> and the Justifier of the un<g ref="char:EOLhyphen"/>godly which believeth in Jesus.</p>
+               <p>The Institution and Hope of this Redemption was revealed to our first Parents, under the for<g ref="char:EOLhyphen"/>lorn Consternation of their Fall, when God gave the Promise of the Seed of the Woman to bruise the Serpent's Head.
+<note place="margin">Gen. 3.15.</note> In the Scrip<g ref="char:EOLhyphen"/>tures relating the History of the World, and of the Church before the Ministry of <hi>Moses,</hi> it hath not pleased the Holy Ghost to speak particularly of the Institu<g ref="char:EOLhyphen"/>tion of Ceremonial Worship and Religion.</p>
+               <p>But as from <hi>Adam</hi> to <hi>Moses,</hi> Death, the Wages of Sin, reigned;
+<pb n="15" facs="tcp:206472:8"/>now Sin is not imputed when there is no Law; for Sin is the Transgression of the Law: So likewise the Salvation of the first Patriarchs, and of the whole Church of God, particularly of <hi>Abel</hi> and <hi>Enoch,</hi> could not be ob<g ref="char:EOLhyphen"/>tained but by Faith in the promi<g ref="char:EOLhyphen"/>sed Mediator, without which it was impossible to please God. Neither can Faith be separated from Obedience to a Word of Command and Promise.</p>
+               <p>The Object of Faith being from the beginning, even <hi>Jesus Christ, the same yesterday, and to day, and for ever.</hi>
+               </p>
+               <p>The Expression of the Prophet <hi>Jeremy,</hi> is to this most apposit,
+<note place="margin">Jer. 17.12.</note>
+                  <hi>A glorious high Throne from the beginning is the place of our Sanctu<g ref="char:EOLhyphen"/>ary:</hi> That is, from the beginning of God's reconciling the World to himself. <hi>Jesus Christ</hi> the Lamb of God, slain from the Foundation of the World, was the only and <hi>necessary Mediator</hi> of the Cove<g ref="char:EOLhyphen"/>nant
+<pb n="16" facs="tcp:206472:9"/>of Grace between God and Man for Redemption, and Re<g ref="char:EOLhyphen"/>mission, also for Intercession and Acceptance,
+<note place="margin">Heb. 5.9.</note> who so became the Author of Eternal Salvation to all that obey him. Obedience then to the revealed Will of God is the indispensable Duty of all true Worshippers of God with Acceptance.</p>
+               <p>It pleased God in gracious Condescension to Human Frailty, before the Fulness of Time came that Jesus Christ should offer up himself, once in the End of the World, when he appeared to put away Sin <hi>by the Sacrifice of him<g ref="char:EOLhyphen"/>self,</hi> in that mean time to insti<g ref="char:EOLhyphen"/>tute Sacrifices which were not voluntary Devotions by the Will of Man, either gratulatory to God, or representative to the Offerer, but exact Performances according to the express Precept of God. For, as <hi>Lactantius</hi> says, God only can teach how he would be wor<g ref="char:EOLhyphen"/>shipped.</p>
+               <pb n="17" facs="tcp:206472:9"/>
+               <p>The Evidence of this also ap<g ref="char:EOLhyphen"/>pears from the words of holy Scriptures,
+<note place="margin">Heb. 11.4.</note> concerning <hi>Abel</hi> offer<g ref="char:EOLhyphen"/>ing a more excellent Sacrifice, by which he obtained Witness that he was Righteous, which could not be unless his Sacrifice were entirely and only such as God commanded; so that being dead, he yet speaketh, and instructeth us in this great Truth, That there can be no Righteousness in any Religion, but as it is the Obser<g ref="char:EOLhyphen"/>vance of the Word of God.</p>
+               <p>It evidently also appears, that Sacrifices were of Divine Insti<g ref="char:EOLhyphen"/>tution, because they were only to be such Offerings of Beasts and Fowl, as were not by natural Distinction, but by positive Com<g ref="char:EOLhyphen"/>mand, selected to be clean and made capable to be sacrificed; all other Species being excluded as unclean.</p>
+               <p>In the next place, must be un<g ref="char:EOLhyphen"/>derstood the right End and In<g ref="char:EOLhyphen"/>tention of Sacrifice. The Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="18" facs="tcp:206472:10"/>speaks expresly,
+<note place="margin">Heb, 9.22. &amp; 10.4.</note> that with<g ref="char:EOLhyphen"/>out shedding of Blood there is no Remission of Sin; yet the Blood of Bulls and Goats could not a<g ref="char:EOLhyphen"/>vail to make the Worshipper perfect: so that the continual Sa<g ref="char:EOLhyphen"/>crifice daily offered, and all other extraordinary Burnt-offerings oc<g ref="char:EOLhyphen"/>casionally appointed by the Law, were merciful Surrogations of Typical Propitiations with re<g ref="char:EOLhyphen"/>spect to Christ, whose Blood on<g ref="char:EOLhyphen"/>ly could take away the Sins of the World:
+<note place="margin">Heb. 13.20, 21.</note> Whose Blood, being the Blood of the everlasting Co<g ref="char:EOLhyphen"/>venant, could only make the Comers unto God perfect.</p>
+               <p>Man being made in Honour, did not therein abide, but became like the Beasts that perish.</p>
+               <p>Also being raised up to Hope in the Promise of Grace by Jesus Christ, they apostatized quickly, becoming <hi>vain in their Imagina<g ref="char:EOLhyphen"/>tion;</hi>
+                  <note place="margin">Rom. 1.21, 25.</note>
+                  <hi>and their foolish Heart be<g ref="char:EOLhyphen"/>ing darkened, changed the Truth of God into a Lie, and worshipped and
+<pb n="19" facs="tcp:206472:10"/>served the Creature more than the Creator, who is blessed for ever.</hi>
+               </p>
+               <p>Notwithstanding there remain<g ref="char:EOLhyphen"/>ed in the Hearts of the Heathen Idolatrous Nations a Conviction, that there was a necessity of Pro<g ref="char:EOLhyphen"/>pitiatory Sacrifices to appease the Wrath, and atone the offended Justice of Divine Majesty.</p>
+               <p>Profane Histories are full of continual Instances of the So<g ref="char:EOLhyphen"/>lemnities of Sacrifices Ilastical to appease the Wrath of God: All which Offerings were feigned and imposed, as if divinely au<g ref="char:EOLhyphen"/>thorized and instituted: And the Ceremonies relating thereun<g ref="char:EOLhyphen"/>to, stiled <hi>Mysteries,</hi> as being the visible Signatures of spiritual In<g ref="char:EOLhyphen"/>tention and Efficacy. For tho the Medium and Object of pro<g ref="char:EOLhyphen"/>pitiatory Worship by the Hea<g ref="char:EOLhyphen"/>then, were vain and false; yet most rational was the indelible Conviction of the necessity of Propitiation and Atonement to<g ref="char:EOLhyphen"/>wards God for the Remission of
+<pb n="20" facs="tcp:206472:11"/>Sins committed by the Rebellion and Apostacy of Human Crea<g ref="char:EOLhyphen"/>tures.</p>
+               <p>The Mystery of Godliness, great without Controversy,
+<note place="margin">1 Tim. 3.16.</note> re<g ref="char:EOLhyphen"/>presents God manifested in the Flesh, believed on in the World. This is the Mystery of God,
+<note place="margin">Col. 2.2.</note> and of the Father, and of Jesus Christ. The Explanation of which is, <hi>That God was in Christ,</hi>
+                  <note place="margin">2 Cor. 5.19, 21.</note>
+                  <hi>reconciling the World unto himself, not impu<g ref="char:EOLhyphen"/>ting their Trespasses unto them: For he hath made him who knew no Sin, to be Sin for us, that we might be made the Righteousness of God in him.</hi>
+               </p>
+               <p>This Reconciliation and Re<g ref="char:EOLhyphen"/>mission is always expressed under the Notion of Ransom, Atone<g ref="char:EOLhyphen"/>ment, Redemption, Propitiation and Expiation; all which is to be performed by the Death of a slain Sacrifice:
+<note place="margin">Heb. 9.22.</note> For the Scripture testifies, without shedding of Blood there is no Remission of Sins.
+<note place="margin">Heb. 10.1.</note> But it is not possible that
+<pb n="21" facs="tcp:206472:11"/>the Blood of Bulls and Goats should take away Sins.</p>
+               <p>The Divine Justice could not take Pleasure in any Sacrifices which were offered (tho by the Typical Law) for Sin, so as there<g ref="char:EOLhyphen"/>by to receive Satisfaction. There<g ref="char:EOLhyphen"/>fore when the Son of God came into the World, a Body was pre<g ref="char:EOLhyphen"/>pared for him, therein to do the Will of God; by the which Will we are sanctified through the offering of the Body of Jesus Christ once for all. For it is only the beloved Son of God,
+<note place="margin">Heb. 9.14.</note> in whom God can be well-pleased with Sin<g ref="char:EOLhyphen"/>ners, even through the Blood of Christ, who through the eternal Spirit offered himself without Spot to God; who purgeth our Consciences from the dead Works of Sin, to serve the Living God: <hi>For by one Offering he hath per<g ref="char:EOLhyphen"/>fected for ever them that are sancti<g ref="char:EOLhyphen"/>fied.</hi>
+                  <note place="margin">Heb. 10.14.</note>
+               </p>
+               <p>Therefore to imagine any Possi<g ref="char:EOLhyphen"/>bility of the Pardon of Sin with<g ref="char:EOLhyphen"/>out
+<pb n="22" facs="tcp:206472:12"/>the atoning Propitiation and Satisfaction only obtained by the Blood of Christ, is an evil Fig<g ref="char:EOLhyphen"/>ment to palliate the desperate Wickedness and Sinfulness of Sin, to make void the Law of perpe<g ref="char:EOLhyphen"/>tual Righteousness which is the indispensible Rule and Judg of all Affections and Actions, and doth indeed effectually contemn and blaspheme the infinite Majesty, Holiness and Justice of God, the Creator and Preserver of all Be<g ref="char:EOLhyphen"/>ings; and, consequently, mise<g ref="char:EOLhyphen"/>rably deprives a Sinner of that strong Consolation given by God to those that fly for Refuge unto Christ,
+<note place="margin">Heb. 6.18.</note> to obtain by his Resur<g ref="char:EOLhyphen"/>rection (the Evidence of his compleat Satisfaction to Divine Justice) the Answer of a good Conscience.</p>
+               <p>The Worshippers thus purged,
+<note place="margin">Heb. 10.2.</note> as the Scripture saith, having no more Conscience of Sins,
+<note place="margin">Isa. 53.6.</note>
+                  <hi>the Lord having laid on him the Iniquities of us all,</hi> who do the Work of
+<pb n="23" facs="tcp:206472:12"/>God, to believe on him whom he hath sent.</p>
+               <p>For this is the true <hi>Cabala,</hi> the faithful Saying,
+<note place="margin">1 Tim. 1.15.</note> and worthy of all Acceptation, That Christ Je<g ref="char:EOLhyphen"/>sus came into the World to save even chief Sinners.</p>
+               <p>In the Cases of Life and Death according to universal Justice in the World, it is fatal not only to be an Outlaw, flying from Justice, Mute in refusing to answer Ju<g ref="char:EOLhyphen"/>stice; but it proves no less mor<g ref="char:EOLhyphen"/>tal to suggest a Plea which the Law will not allow.</p>
+               <p>If a Criminal condemned to die be favoured with some Re<g ref="char:EOLhyphen"/>prieve, and then by the Sove<g ref="char:EOLhyphen"/>raign's Commission intrusted with an important Imployment, the faithful Discharge of that Trust is meer Duty, but not Me<g ref="char:EOLhyphen"/>rit; and he remains still a con<g ref="char:EOLhyphen"/>demned Malefactor, liable to the former Sentence by the Law of Attaint and Death, from which not any thing can deliver but a Par<g ref="char:EOLhyphen"/>don
+<pb n="24" facs="tcp:206472:13"/>from the Soveraign, laid hold on, and legally pleaded by the Criminal. It is thus according to the Rule of Righteousness, be<g ref="char:EOLhyphen"/>tween the Judg of all the World and every Mortal Creature, that God might be just,
+<note place="margin">Rom. 3.25, 26.</note> and the Justi<g ref="char:EOLhyphen"/>fier of him which believeth in Jesus. Therefore we must not be ignorant of Satan's Devices; the Popish Doctrine of Merit, by Works sprinkled (as they say) by the Blood of Christ,
+<note place="margin">1 Tim. 4.1, 2.</note> available to Justification and Salvation, is an Antichristian Departure from the Faith, and the teaching of Lies in Hypocrisy: For there cannot be any Work possible to be accepted by Divine Justice, but what is an Act of Obedience to the Law; and the best Perfor<g ref="char:EOLhyphen"/>mances of such is but, as our Sa<g ref="char:EOLhyphen"/>viour saith,
+<note place="margin">Luke 17.10.</note> that of an unprofi<g ref="char:EOLhyphen"/>table Servant; When we shall have done all those things which are commanded us, we must say, We have done that which
+<pb n="25" facs="tcp:206472:13"/>was our Duty to do. Therefore the Observance of a present Duty (the Neglect or Male-perfor<g ref="char:EOLhyphen"/>mance whereof would be crimi<g ref="char:EOLhyphen"/>nal Guilt) cannot in any just Construction be assumed or im<g ref="char:EOLhyphen"/>puted to expiate a precedent Transgression guilty of Felony and Treason.</p>
+               <p>Yet this Truth doth not in any degree exempt from the Obedi<g ref="char:EOLhyphen"/>ence of Faith, which is the in<g ref="char:EOLhyphen"/>separable and indispensable Obli<g ref="char:EOLhyphen"/>gation and Duty annexed to the Covenant of Grace: So that there is not in the least degree any Pre<g ref="char:EOLhyphen"/>tence for Antinomian Liberti<g ref="char:EOLhyphen"/>nism.
+<note place="margin">Tit. 2.11, 12.</note>
+                  <hi>For the Grace of God that bringeth Salvation, hath appeared to all Men; teaching us, that de<g ref="char:EOLhyphen"/>nying Ʋngodliness and Worldly Lusts, we should live soberly, righte<g ref="char:EOLhyphen"/>ously, and godly in this present World:</hi> Because Faith unites us to the Principle of Life, and works in us by Love, which is the Opera<g ref="char:EOLhyphen"/>tion or Activity of Life, in the
+<pb n="26" facs="tcp:206472:14"/>fulfilling of the Law.</p>
+               <p>There is also another Method of the Depths of Satan to cloud the Glory of God's free Grace, and the compleat Merit of Christ's Satisfaction and Righteousness, and also to shake the Confidence of a Sinner's Hope to obtain Remission and Acceptance, by suborning the Act of Faith to share in the Merits of Christ. Now how weak and unreasona<g ref="char:EOLhyphen"/>ble this Supposition is, will ap<g ref="char:EOLhyphen"/>pear by the Consideration of pa<g ref="char:EOLhyphen"/>rallel Cases of Civil and Natural Instances in Judicature: Tho the guilty Person cannot have Benefit unless he plead the Royal Pardon, yet there is no Virtue in the Plea and humble Claim, but only in the extensive Validity of the Pardon. Likewise in desperate Sickness, or deadly Wound, the healing Virtue is not in the meer Application, or receiving the So<g ref="char:EOLhyphen"/>vereign Balm, or <hi>Elixir;</hi> notwith<g ref="char:EOLhyphen"/>standing the Patient cannot be
+<pb n="27" facs="tcp:206472:14"/>healed without the Reception or Application of the Remedy.</p>
+               <p>Thus it is with a Sinner before the Divine Tribunal: Faith be<g ref="char:EOLhyphen"/>lieves the Truth and Goodness of the Promise, and embraces and re<g ref="char:EOLhyphen"/>lies upon it; that is, upon the Re<g ref="char:EOLhyphen"/>demption purchased by Jesus Christ for compleat Salvation from the Condemnation and Cor<g ref="char:EOLhyphen"/>ruption of sinful Death, for re<g ref="char:EOLhyphen"/>conciliation and Acceptance with God, and for Participation of E<g ref="char:EOLhyphen"/>ternal Life which is in Christ Je<g ref="char:EOLhyphen"/>sus, to be communicated to all those who by Faith receive Christ, and so have an Union of Life with Christ.</p>
+               <p>Now as in the Body the Ar<g ref="char:EOLhyphen"/>tery and Nerve is the Ligament, the Vessel and Conveyance for vital Union and Motion unto all the Members by the Blood and Animal Spirits: So Faith to the Soul is a Means of vital Union with Christ, and of the Appli<g ref="char:EOLhyphen"/>cation and Merits of Christ. All
+<pb n="28" facs="tcp:206472:15"/>which is effected by the Spirit of Christ,
+<note place="margin">2 Cor. 5.17. James 2.26.</note> without which we are none of Christ's, and Faith it self is dead.</p>
+               <p>The Look of one stung with the deadly fiery Serpent to the Brazen Serpent, had no share in the heal<g ref="char:EOLhyphen"/>ing Virtue of that Divine Ordi<g ref="char:EOLhyphen"/>nance; yet without looking up to the Brazen Serpent, the Person stung could receive no Benefit, but must die. So Faith hath no justify<g ref="char:EOLhyphen"/>ing Virtue inherent in it self: For what may prevail to justify, must make the Conscience perfect. Consequently the Efficient of Per<g ref="char:EOLhyphen"/>fection must of it self be perfect; but Faith cannot be such, for it is not of our selves,
+<note place="margin">Eph. 2.8.</note> it is the Gift of God. Now whatsoever is re<g ref="char:EOLhyphen"/>ceived, is received according to the Measure and Capacity of the Recipient, which being the weak and frail unstable Heart of Man, it cannot be perfect; but as the Law was weak and faulty through the Flesh, so even the Gift of
+<pb n="29" facs="tcp:206472:15"/>Faith is not able through the re<g ref="char:EOLhyphen"/>mainder of Corruption to per<g ref="char:EOLhyphen"/>form any perfect Work. There<g ref="char:EOLhyphen"/>fore the Scripture represents the Lord Jesus Christ under the No<g ref="char:EOLhyphen"/>tion of the most tender Com<g ref="char:EOLhyphen"/>passion to the weak in Faith,
+<note place="margin">Isa. 42.3. Mat. 12.20</note> that he will not break the bruised Reed, nor quench the smoaking Flax, but will bring forth Judg<g ref="char:EOLhyphen"/>ment unto Victory: which pro<g ref="char:EOLhyphen"/>ceeds not from any Virtue and Power inherent in the Work of Faith, but from the Righteous<g ref="char:EOLhyphen"/>ness and Strength,
+<note place="margin">Isa. <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </note> which only is to be found in the Lord Jesus by perishing Sinners, who fly for Refuge unto the Hope that is set before them, Jesus Christ the Son of God.</p>
+               <p>Even as the Man-slayer under the Law could not be secure from the Avenger of Blood, if he were found out of the City of Refuge; it was only the City of Refuge which conferr'd and established his Preservation and Safety: So
+<pb n="30" facs="tcp:206472:16"/>the Sinner cannot be saved from Wrath to come, without Faith in Christ. But the Propitiation ac<g ref="char:EOLhyphen"/>cording to the Will of God, by the Blood of the Everlasting Co<g ref="char:EOLhyphen"/>venant, can only make a Sinner perfect before the Tribunal of God's infinite Justice. Therefore to assign any degree of Ability to any Act of Faith as merito<g ref="char:EOLhyphen"/>rious of Justification, is to usurp upon Christ, and to incur the se<g ref="char:EOLhyphen"/>vere Animadversion of the Al<g ref="char:EOLhyphen"/>mighty.
+<note place="margin">Job 40.14.</note>
+                  <hi>Then will I confess unto thee, that thine own Right-hand can save thee.</hi>
+               </p>
+               <p>The everlasting Covenant of Grace is ordered in all things and sure:
+<note place="margin">2 Sam. 23.5.</note> For <hi>the Foundation of God standeth sure,</hi>
+                  <note place="margin">2 Tim. 2.19.</note>
+                  <hi>having this Seal, The Lord knoweth them that are his. And, let every one that nameth the Name of Christ depart from Iniquity.</hi>
+                  <note place="margin">Psal. 50.16.</note>
+                  <hi>But unto the wicked God saith, What hast thou to do to de<g ref="char:EOLhyphen"/>clare my Statutes, or that thou shouldst take my Covenant into thy
+<pb n="31" facs="tcp:206472:16"/>Mouth?</hi> These Scriptures fully evidence, that altho the Cove<g ref="char:EOLhyphen"/>nant of Mercy to Sinners is esta<g ref="char:EOLhyphen"/>blished only in the free Grace of God, and the meritorious Satis<g ref="char:EOLhyphen"/>faction and Righteousness of the Lord Jesus Christ; yet there re<g ref="char:EOLhyphen"/>mains an utter Incapacity in any Person to partake actually of the Benefit thereof,
+<note place="margin">Rom. 8.9.</note> until by the Spi<g ref="char:EOLhyphen"/>rit of Christ (without which not any can be Christ's) he be born again, and made a new Creature.</p>
+               <p>For the State of every Man since the Fall is a Complication of Misery under Condemnation, Dementation, and mortal Corrup<g ref="char:EOLhyphen"/>tion. Accordingly the necessary Remedies are distinct; Justifica<g ref="char:EOLhyphen"/>tion to take away Condemnation, and Sanctification to free from Corruption by a new Principle of Life; by a renewed Faculty of Life acted by a new Rule, the Word of God written in the Heart, directed to, and aiming at
+<pb n="32" facs="tcp:206472:17"/>a new End and Mark, the Glory of God, and the Prize of our high Calling in Christ Jesus, our Eternal Salvation.</p>
+               <p>Accordingly the Tenour of the New Covenant is both promised and expressed in the Old and New Testament:
+<note place="margin">Ezek. 36.25.</note>
+                  <hi>Then will I sprinkle clean Water upon you, and ye shall be clean.</hi> This imports that washing throughly, and cleansing from Iniquity and Sin, so as to be whiter than Snow;
+<note place="margin">Psal. 51.7.</note> which is supplicated by <hi>David,</hi> and pro<g ref="char:EOLhyphen"/>mised by God to Sins of the deepest Stain,
+<note place="margin">Heb. 12.24. &amp; 13.20, 21.</note> being effected by the Blood of Sprinkling, the Blood of the Everlasting Covenant, which makes us perfect to do his Will.
+<note place="margin">&amp; 9.14.</note> For the End why the Blood of Christ, who by the E<g ref="char:EOLhyphen"/>ternal Spirit offered himself with<g ref="char:EOLhyphen"/>out Spot to God, purges the Con<g ref="char:EOLhyphen"/>science from dead Works, is to serve the Living God: But God is the God of the Living, not of the Dead. Therefore as the
+<pb n="33" facs="tcp:206472:17"/>Condemnation of Death is to be taken away in Christ Jesus,
+<note place="margin">Rom. 8.1.</note> so the Corruption of Death is to be abolished,
+<note place="margin">2 Tim. 1.10.</note> which cannot be with<g ref="char:EOLhyphen"/>out a new Principle and Faculties of Life, and being made a new Creature. Accordingly the Co<g ref="char:EOLhyphen"/>venant of Grace proceeds to pro<g ref="char:EOLhyphen"/>mise,
+<note place="margin">Ezek. 36.26.</note>
+                  <hi>A new Heart also will I give you, and a new Spirit will I put within you.</hi>
+               </p>
+               <p>This is that renewing of the Holy Ghost vouchsafed unto the foolish and disobedient,
+<note place="margin">Tit. 3.3.</note> who are unperswadable by any Moral Ar<g ref="char:EOLhyphen"/>gumentation, being deceived, ser<g ref="char:EOLhyphen"/>ving divers Lusts and Pleasures;
+<note place="margin">Eccl. 9.3.</note> because the Heart of Man is full of Evil, and Madness is in his Heart while he lives, and after that he goes to the Dead.</p>
+               <p>This is the native Misery of every one; and the Recovery is as wonderful as to restore the Ha<g ref="char:EOLhyphen"/>bit and Exercise of Reason into a Person depraved with Idiotism, or Madness. Now as they who
+<pb n="34" facs="tcp:206472:18"/>are such, tho they are sometimes capable of uttering some words sensible and rational, yet they are utterly unable to perform or maintain the Tenour of reasona<g ref="char:EOLhyphen"/>ble Discourse or Conversation: So neither can any meer animal Man dead in Sins and Trespasses,
+<note place="margin">1 Cor. 2.14.</note> before he be made a new Crea<g ref="char:EOLhyphen"/>ture by being born again,
+<note place="margin">Joh. 3.3.</note> live to the Glory of God, the End of Being, or in Communion with God, the highest Felicity of every Intelligent Being. This is the Gift of God, as our Lord saith to the Jews,
+<note place="margin">Joh. 6.65.</note>
+                  <hi>No Man can come to me, except it were given him of my Father. Judas</hi> indeed came to our Lord, as many do, in Pro<g ref="char:EOLhyphen"/>fession, but not in Heart: He did believe with a Faith of general Assent, and of particular Fidu<g ref="char:EOLhyphen"/>cial Affiance in the Power of Christ for miraculous Operation, but not with a Faith of vital Union with Christ, so as to dwell in Christ and Christ in him, so
+<pb n="35" facs="tcp:206472:18"/>as to live by Christ,
+<note place="margin">Joh. 6.56, 57. Rom. 8.9.</note> which cannot be without having the Spirit of Christ. Also our Lord saith, I have chosen you,
+<note place="margin">Joh. 15.5, 16.</note> and ordained you to bring forth Fruit that should re<g ref="char:EOLhyphen"/>main and persevere, even much Fruit, to the Glory of God. E<g ref="char:EOLhyphen"/>lection, Vocation, Justification and Sanctification, are inseparable.
+<note place="margin">Ephes. 1.4. Rom. 5.18.</note> Eternal Election is unto Holiness, and Justification of Life is univer<g ref="char:EOLhyphen"/>sally and necessarily conjoin'd with Renovation of Life: The End of which is Activity,
+<note place="margin">Joh. 15.6.</note> Opera<g ref="char:EOLhyphen"/>tion, Fruitfulness, without which there is Death, Burning,
+<note place="margin">Eph. 2.10.</note> Destructi<g ref="char:EOLhyphen"/>on; for good Works are ordained by God to be the Walk and Con<g ref="char:EOLhyphen"/>versation of every Child of God:
+<note place="margin">Heb. 8.10, 11.</note> For this is the Covenant God makes with every Israelite, to put his Laws into their Minds, and write them in their Hearts, as both the Rule and Inclination of Life,
+<note place="margin">Hos. 2.20.</note> which is indeed to be taught of God to know God, without which it is impossible, that God
+<pb n="36" facs="tcp:206472:19"/>shall be to any a God in Covenant-Relation, or that any can be a People to God. Now as the Prin<g ref="char:EOLhyphen"/>ciple of Life, and the Operation of Life, so Justification and Sancti<g ref="char:EOLhyphen"/>fication are not confoundable, yet always inseparable. For of God are we in Christ Jesus, who of God is made unto us Wisdom, Righteousness, Sanctification and Redemption: That no Flesh should glory in his sight;
+<note place="margin">1 Cor. 1.29, 30, 31.</note> but ac<g ref="char:EOLhyphen"/>cording as it is written, <hi>Let him that glorieth glory in the Lord.</hi>
+               </p>
+               <p>From the beginning of Apo<g ref="char:EOLhyphen"/>stacy the Devil was a Murderer and a Liar. When he speaketh a Lie, he speaketh of his own; for he is a Liar, and the Father of it. He envenomed the old World with the evil Imaginations of continual Contempt of God, and profane Irreligion, which broke out in all the Acts of Wickedness and Violence, justly provoking the Vengeance of God to destroy that World of Atheistical Rebels.</p>
+               <pb n="37" facs="tcp:206472:19"/>
+               <p>When through infinite Mercy a small Remnant of eight Persons were not only spared to survive the Deluge, that had swept away the World of the Ungodly; but much more, a Covenant of Grace and the Blessing thereof was re<g ref="char:EOLhyphen"/>newed to them and to their Seed,
+<note place="margin">Gen. 8.20, 21.</note> confirmed unto <hi>Noah,</hi> by the Ac<g ref="char:EOLhyphen"/>ceptance of instituted Sacrifice; Then again, the great Adversary and Deceiver of Mankind temp<g ref="char:EOLhyphen"/>ted the new World to distrust Safety in the Promise of the li<g ref="char:EOLhyphen"/>ving and true God, and to attempt Self preservation in a Structure of <hi>Babel,</hi> or Confusion, in the Land of <hi>Shinar,</hi> the proper Base upon which was to be built and established the House of Wicked<g ref="char:EOLhyphen"/>ness; that is,
+<note place="margin">Zech. 5.8, 11.</note> the Mystery of Iniquity, the Doctrine of Devils, to suborn the Worship of <hi>Baa<g ref="char:EOLhyphen"/>lim,</hi> of many Lords, or middle Gods,
+<note place="margin">1 Tim. 4.1.</note> Mediators between God and Man. <hi>Now the Spirit speak<g ref="char:EOLhyphen"/>eth expresly, that in the latter Times
+<pb n="38" facs="tcp:206472:20"/>some shall depart from the Faith, giving heed to seducing Spirits, and Doctrines of Devils.</hi>
+               </p>
+               <p>This is the notorious Apostacy from the absolute Simplicity and Purity of Christian Religion,
+<note place="margin">Christia<g ref="char:EOLhyphen"/>nam Reli<g ref="char:EOLhyphen"/>gionem absolutam &amp; simpli<g ref="char:EOLhyphen"/>cem anili superstiti<g ref="char:EOLhyphen"/>one con<g ref="char:EOLhyphen"/>fundere. <hi>Am. Mar<g ref="char:EOLhyphen"/>cellin.</hi>
+                  </note> un<g ref="char:EOLhyphen"/>to the fabulous Superstition and Will-worship, which gangren'd both Eastern and Western Chur<g ref="char:EOLhyphen"/>ches.</p>
+               <p>The Mediation of Saints and Angels, being introduced as suc<g ref="char:EOLhyphen"/>cedaneous to the Heathen Adora<g ref="char:EOLhyphen"/>tion of <hi>Baalim,</hi> Heroes and mid<g ref="char:EOLhyphen"/>dle Deities, called <hi>Dii Medioxi<g ref="char:EOLhyphen"/>mi.</hi>
+               </p>
+               <p>Those Pagan Idols,
+<note place="margin">Isa. 2.19, 20, 21. Rev. 6.15, 16.</note> having been cast to the Moles and Bats by the Divine Influence of Gospel-Light, in the Manifestation of Truth, even this faithful Saying, and worthy of all Acceptation, that Jesus Christ came into the World, the only Mediator between God and Men, to save Sinners.</p>
+               <p>Now also for these last hun<g ref="char:EOLhyphen"/>dred and fifty Years, the Gospel-Reformation
+<pb n="39" facs="tcp:206472:20"/>(miraculously both begun and preserved) hath again as it were brought Life and Im<g ref="char:EOLhyphen"/>mortality to light, exploded the fabulous Legends of Popery, evi<g ref="char:EOLhyphen"/>denced the pretence of Antiquity to be no other than as Defection from Primary Institution, pre<g ref="char:EOLhyphen"/>cedes Restitution and Reforma<g ref="char:EOLhyphen"/>tion, convinced the Idolatry of the Mass, and the Superstition of their Will-worship, and Ado<g ref="char:EOLhyphen"/>ration of Saints and Angels; all cherished by an imposed Igno<g ref="char:EOLhyphen"/>rance,
+<note place="margin">Joh. 16.3.</note> the Parent not of Devo<g ref="char:EOLhyphen"/>tion, but of cruel Persecution.</p>
+               <p>But as in the first Manifesta<g ref="char:EOLhyphen"/>tion of the everlasting Gospel un<g ref="char:EOLhyphen"/>to the World, that lay in Dark<g ref="char:EOLhyphen"/>ness and the Shadow of Death,
+<note place="margin">Rev. 12.</note> the Serpent cast out of his Mouth a Flood of deceitful Errors, of desperate Wickedness, to carry a<g ref="char:EOLhyphen"/>way with that Flood the Church from the Rock of Truth: So now the Reformed Churches have been and are infested not only
+<pb n="40" facs="tcp:206472:21"/>with the Dragon's great perse<g ref="char:EOLhyphen"/>cuting Wrath, but no less dan<g ref="char:EOLhyphen"/>gerously with the Serpentine Sug<g ref="char:EOLhyphen"/>gestions of false Teachers,
+<note place="margin">2 Pet. 2.1.</note> pri<g ref="char:EOLhyphen"/>vily introducing damnable He<g ref="char:EOLhyphen"/>resies, even denying the Lord that bought them.</p>
+               <p>This being the Master-stroke of Satan, by verisimilar Errors to suppress the Fundamental Truth of Salvation for Sinners, by the Expiatory Propitiation of the Death of the Lord Jesus Christ, in Satisfaction of the Justice of God,
+<note place="margin">Eph. 1.4, 9.</note> according to his good Plea<g ref="char:EOLhyphen"/>sure, which he had purposed in himself before the Foundation of the World.</p>
+               <p>That this Truth may appear in a right Light, it must be con<g ref="char:EOLhyphen"/>sidered, that all the Divine Attri<g ref="char:EOLhyphen"/>butes are equally of infinite Per<g ref="char:EOLhyphen"/>fection: Consequently to detract from, or limit any, is to evacuate and effectually to deny the Es<g ref="char:EOLhyphen"/>sential All-sufficiency of God. Therefore to retrench the parti<g ref="char:EOLhyphen"/>cular
+<pb n="41" facs="tcp:206472:21"/>and universal efficacious Providence of God, and to im<g ref="char:EOLhyphen"/>peach the supreme absolute Justice of God, is,
+<note place="margin">Rom. 1.23.</note> under the Profession of owning God, not to glorify him as God, but to change the Glory of the incorruptible God, into an Image made like to cor<g ref="char:EOLhyphen"/>ruptible Man, a meer Idol,
+<note place="margin">1 Cor. 8.4.</note> which is nothing in the World, and as the Prophet expresses,
+<note place="margin">Isa. 41.23.</note> neither able to do Good or Evil.</p>
+               <p>But from everlasting to ever<g ref="char:EOLhyphen"/>lasting the Lord is God:
+<note place="margin">Psal. 90.1, 11.</note> Who knoweth the Power of his Anger? According to his Fear, so is his Wrath: according to the infinite Perfections, for which God is in<g ref="char:EOLhyphen"/>dispensably to be feared; so is his Wrath in the Vindictive Exe<g ref="char:EOLhyphen"/>cution of his Justice upon every Violation of his holy, just and good Laws, the natural Rules of perpetual Righteousness, to di<g ref="char:EOLhyphen"/>rect and judg all the Affections and Actions of all Mankind. Herein therefore the manifold Wisdom
+<pb n="42" facs="tcp:206472:22"/>of God is glorified in the Esta<g ref="char:EOLhyphen"/>blishment of the infinite Perfecti<g ref="char:EOLhyphen"/>ons of Justice and Mercy in the Redemption and Salvation of Sin<g ref="char:EOLhyphen"/>ners.</p>
+               <p>It being impossible to make way for immense Mercy to be manifested without Satisfaction to infinite Justice, which other<g ref="char:EOLhyphen"/>wise must be exposed to blasphe<g ref="char:EOLhyphen"/>mous Contempt, and Annihila<g ref="char:EOLhyphen"/>tion: Accordingly the Apostle <hi>Paul</hi> expresses, that we are justi<g ref="char:EOLhyphen"/>fied freely by his Grace through the Redemption that is in Jesus Christ,
+<note place="margin">Rom. 3.</note> whom God hath set forth for a Propitiation, through Faith in his Blood, to declare his Righteousness for the Re<g ref="char:EOLhyphen"/>mission of Sins; that he might be just, and the Justifier of him, even of the ungodly, which be<g ref="char:EOLhyphen"/>lieveth in Jesus. So that Faith cannot fly for Refuge unto Mercy, until plenary Satisfaction be made unto Justice;
+<note place="margin">1 Pet. 3.21</note> thereby to obtain the Answer of a good Conscience
+<pb n="43" facs="tcp:206472:22"/>towards God, through the Re<g ref="char:EOLhyphen"/>surrection of Jesus Christ.</p>
+               <p>The Scripture fully and always testifies, that Remission of Sins is an Act of absolute Sovereign Justice, vouchsafed upon plenary Satisfaction,
+<note place="margin">Rom. 3.24, 25.</note> represented under the Notion and Terms of Re<g ref="char:EOLhyphen"/>demption, Propitiation, Ransom; which word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> used by the Septuagint, <hi>Numb.</hi> 35.31, 32.
+<note place="margin">Mark 10.45. 1 Tim. 2.6.</note> is duly translated Satisfaction. And the learned in the Hebrew observe, that the word in the Original imports sufficient Preservation, which a Sinner can only find in the compleat Merits of the Death, Resurrection, and Righteousness of the Lord Jesus Christ, applied by Faith, and imputed by Grace. Accordingly the Scripture stiles the Act of Divine Pardon to be Justification, Reconciliation,
+<note place="margin">Rom. 5.1, 9, 10, 11, 19.</note> A<g ref="char:EOLhyphen"/>tonement, Righteousness; all which words are juridical Phrases, evidencing such a Person to be <hi>Rectus in Curia,</hi> right in Court,
+<pb n="44" facs="tcp:206472:23"/>according to the judicial Autho<g ref="char:EOLhyphen"/>ritative Sentence of Law. This cannot possibly be obtained, or performed, unless due Satisfaction were made to the infinite Justice of the Divine Majesty.</p>
+               <p>For Pardon upon any other less or diluted account, must leave the Justice of God violated and void of Satisfaction: Also the Sinner must be without possibili<g ref="char:EOLhyphen"/>ty of a Conscience free from Guilt; consequently never able to arrive at Peace,
+<note place="margin">Act. 13.39. &amp; 10.36, 43. Rom. 5.1. Eph. 2.14.</note> which flows from being justified by Faith in Jesus Christ, who is our Peace with God.</p>
+               <p>It is also absurd Contradiction to imagine any Benefit can possi<g ref="char:EOLhyphen"/>bly be <hi>obtained</hi> by the atoning Virtue of the Death of the Lord Jesus Christ, without the quick<g ref="char:EOLhyphen"/>ning, regenerating Power of the Spirit of Christ making the Sin<g ref="char:EOLhyphen"/>ner a new Creature.</p>
+               <p>There is the manifold multi<g ref="char:EOLhyphen"/>farious Wisdom of God magnified
+<pb n="45" facs="tcp:206472:23"/>to a Sinner, that the Work of Grace may be compleatly perfect, in respect of the Justice and Mer<g ref="char:EOLhyphen"/>cy of God, and of the damning Guilt and deadly Corruption in<g ref="char:EOLhyphen"/>herent in the desperate Wicked<g ref="char:EOLhyphen"/>ness of every Sin.</p>
+               <p>Yet the manifold Wisdom of God decreeing from Eternity, and effecting in the fulness of Time, the Redemption of Sinners by the Blood of the everlasting Cove<g ref="char:EOLhyphen"/>nant, could not possibly have any Cause or Motive antecedent to the <hi>Eternal</hi> Purpose of God, which he purposed in Christ Jesus our Lord, and from the beginning of the World was hid in God.</p>
+               <p>For it was both impossible for a finite narrow Intelligence, to conceive how God should be ma<g ref="char:EOLhyphen"/>nifest in the Flesh: And it would have been impious, blasphemous Presumption, to imagine that the Son of God, who knew no Sin, should be made a Propitiatory Sacrifice for Sin, unless the Will
+<pb n="46" facs="tcp:206472:24"/>of God had so promised and de<g ref="char:EOLhyphen"/>clared.</p>
+               <p>Indeed the immense Goodness of God made this known imme<g ref="char:EOLhyphen"/>diately after Man's Apostacy, by the Promise of the Seed of the Wo<g ref="char:EOLhyphen"/>man to break the Serpent's Head;
+<note place="margin">Gen. 3.15.</note> that is, to destroy the Works of the Devil, and more evidently by the Institution of Sacrifices. For it is a most absurd Deroga<g ref="char:EOLhyphen"/>tion from the Soveraignty of a Creator, and Contradiction to the Duty of a Creature, to impose upon God the necessity of accep<g ref="char:EOLhyphen"/>ting the groundless Fancy of a guilty Malefactor in the highest degree of desperate Wickedness,
+<note place="margin">Jer. 17.9.</note> to be a Price of Redemption from everlasting Wrath: Considering also that Man had no Title of In<g ref="char:EOLhyphen"/>terest or rightful Power over any of his Fellow-Creatures,
+<note place="margin">Psal. 50.</note> to sub<g ref="char:EOLhyphen"/>stitute any of them a Sacrifice for his Sin.</p>
+               <p>Indeed it was an early and due Apprehension that every Sin was
+<pb n="47" facs="tcp:206472:24"/>of capital Guilt, and Forfeiture of Life: But it could never have entered into the Heart of Man, to conceive how God could be just, and the Justifier of Sinners,
+<note place="margin">Rom. 3.26. &amp; 4.5.</note> until God had revealed it by his Spirit and the Word of his Grace. The Apprehension of Propitia<g ref="char:EOLhyphen"/>tion attainable by Sanguinary Sa<g ref="char:EOLhyphen"/>crifices, could not be a Primary Notion in any Human Mind, but consequent and derivative from the Institution of Sacrifices by the express Command and Ap<g ref="char:EOLhyphen"/>pointment of God, without which it was impossible to please God.</p>
+               <p>For Faith cannot be or subsist without a word of Command and Promise: But to fancy a Re<g ref="char:EOLhyphen"/>ligious Worship to appease the just Wrath, and to conciliate the Favour of the Majesty of the Great and Terrible God, the Creator of all Beings, by any per<g ref="char:EOLhyphen"/>formance of Offering not institu<g ref="char:EOLhyphen"/>ted expresly by God, is a Pre<g ref="char:EOLhyphen"/>sumption becoming a dumb Idol,
+<pb n="48" facs="tcp:206472:25"/>or some precarious Superstition; and is an effectual practical De<g ref="char:EOLhyphen"/>nial of the infinite Perfections of God, obtruding and imposing the Blood and Carcass of a wretched Calf or Sheep, to expiate the Guilt of most nefandous Crimes, and satisfy infinite Justice. Nei<g ref="char:EOLhyphen"/>ther can there be any possible ground of Reason to imagine that the Ceremonial Ordinances of Sacrifices,
+<note place="margin">Heb. 9.1.</note> and other Rites of Divine Worship and Service, were instituted by God, with respect to, or Motive from the supersti<g ref="char:EOLhyphen"/>tious Practice or Expectation of profane Sinners, who offered their Devotion to Devils, as the Word of God expresly testifies,
+<note place="margin">1 Cor. 10.20.</note> That <hi>the things which the Gentiles sa<g ref="char:EOLhyphen"/>crifice, they sacrifice to Devils, and not to God.</hi>
+               </p>
+               <p>But Sacrifices, and all other Typical Services and Ordinances, were by God appointed, until the time of Reformation, when Christ came an High Priest of
+<pb n="49" facs="tcp:206472:25"/>good things to come, (that is everlasting) who by the eternal Spirit offer'd himself without Spot to God,
+<note place="margin">Heb. 9.11, 14.</note> by his own Blood to purge our Consciences from dead Works (that is,
+<note place="margin">Heb. 6.1.</note> from Sins de<g ref="char:EOLhyphen"/>serving Death) to serve the living God.</p>
+               <p>The Ceremonial Law had a Shadow of good things to come,
+<note place="margin">Heb. 10.1, 4, <hi>to</hi> 10.</note> but not Virtue to make the Comers thereunto perfect; <hi>For it is not possible that the Blood of Bulls and of Goats should take away Sin.</hi>
+               </p>
+               <p>Therefore because in Sacrifices and Offerings for Sin God could not take Pleasure, as therein re<g ref="char:EOLhyphen"/>ceiving any Satisfaction to Justice: When Jesus Christ came into the World, he saith,
+<note place="margin">Heb.</note>
+                  <hi>A Body hast thou prepared me; Lo I come to do thy Will, O God;</hi> by the which Will we are sanctified through the offering of the Body of Jesus Christ once: But this Will of God was not induced by any
+<pb n="50" facs="tcp:206472:26"/>Temporary Consideration, it was from everlasting.
+<note place="margin">Ephes. 1.4.</note>
+                  <hi>God hath cho<g ref="char:EOLhyphen"/>sen us in Christ before the Founda<g ref="char:EOLhyphen"/>tion of the World.</hi>
+                  <note place="margin">2 Tim. 1.9.</note>
+                  <hi>God hath saved us, and called us with an holy Calling, not according to our Works, but ac<g ref="char:EOLhyphen"/>cording to his own Purpose and Grace, which was given us in Christ Jesus before the World began.</hi>
+                  <note place="margin">Tit. 1.2.</note>
+                  <hi>In hope of Eternal Life, which God that cannot lie, promised before the World began. Who verily was fore-ordained before the Foundation of the World,</hi>
+                  <note place="margin">1 Pet. 1.20</note>
+                  <hi>but was manifested in these last Times.</hi>
+               </p>
+               <p>It could not then be in Com<g ref="char:EOLhyphen"/>pliance with any Human Appre<g ref="char:EOLhyphen"/>hension of Expiation of Sin by any Sacrifice of any Creature, that Jesus Christ was constituted and given by God to be the Pro<g ref="char:EOLhyphen"/>pitiation and Redemption for Sinners.
+<note place="margin">Ephes. 1.</note> But contrariwise, God having according to the Counsel of his own <hi>free</hi> Will made known to our first Parents in their dis<g ref="char:EOLhyphen"/>mal Fall the Mystery of his Will in the Promise of the Seed of the
+<pb n="51" facs="tcp:206472:26"/>Woman to break the Serpent's Head: And then for the Confir<g ref="char:EOLhyphen"/>mation of that Promise, and for the support of Faith, instituted Sacrifices, revealed first to <hi>Adam,</hi> then to <hi>Noah,</hi> and consequently in them to the whole World of Mankind:</p>
+               <p>Noah <hi>builded an Altar unto the Lord, and took of every clean Beast,</hi>
+                  <note place="margin">Gen. 8.20, 21.</note>
+                  <hi>and of every clean Fowl, and offered Burnt-offerings upon the Altar. And the Lord smelled a sweet Sa<g ref="char:EOLhyphen"/>vour;</hi> or a Savour of Rest and Satisfaction.</p>
+               <p>Now this could not be affirmed or believed, unless such Sacrifices had been according to the express Institution of God, who (as was before observed) only could ap<g ref="char:EOLhyphen"/>point the Discrimination of Beasts clean and unclean: All which al<g ref="char:EOLhyphen"/>so was performed and accepted with respect to,
+<note place="margin">Ephes. 5.2.</note> and in virtue of the Offering and Sacrifice of Christ himself to God for a sweet smelling Savour.</p>
+               <pb n="52" facs="tcp:206472:27"/>
+               <p>Immediately upon <hi>Noah</hi>'s Sa<g ref="char:EOLhyphen"/>crifice,
+<note place="margin">Gen. 9.9.</note> God established his Cove<g ref="char:EOLhyphen"/>nant with <hi>Noah,</hi> and his Seed after him.</p>
+               <p>Thus all Mankind was by Di<g ref="char:EOLhyphen"/>vine Institution initiated in the Religion of Propitiatory Sacri<g ref="char:EOLhyphen"/>fices, all in reference to, and de<g ref="char:EOLhyphen"/>riving Virtue and Acceptance from the Merits of Jesus Christ, <hi>the Lamb of God,</hi>
+                  <note place="margin">Joh. 1.29.</note>
+                  <hi>which taketh away the Sins of the World.</hi>
+               </p>
+               <p>But as it is charged upon <hi>Israel,</hi> both by <hi>David</hi> and <hi>Moses,</hi>
+                  <note place="margin">Psal. 106.13, 21. Deut. 32.</note> so all Nations soon forgot God's Works, they forgot God their Saviour, which had done great things for their Preservation; they corrup<g ref="char:EOLhyphen"/>ted themselves;
+<note place="margin">Deut. 32.5, 15, 16, 17.</note> their Spot was not the Spot of his People; they forsook God which made them, and lightly esteemed the Rock of their Salvation; they provoked him to Jealousy with strange Gods; they sacrificed to Devils, not to God: So that the offering of Propitiatory Sacrifices by the
+<pb n="53" facs="tcp:206472:27"/>Universality of Mankind, was not a Human Invention, but a Derivation from Divine Institu<g ref="char:EOLhyphen"/>tion, tho wretchedly corrupted by Satanical Suggestion. Nei<g ref="char:EOLhyphen"/>ther was there any Rite of Re<g ref="char:EOLhyphen"/>ligious Worship among the Hea<g ref="char:EOLhyphen"/>then, but what was pretended to be a Direction and Command from Heaven, so deeply engraven was the Impression in every Ra<g ref="char:EOLhyphen"/>tional Mind, that Divine Wor<g ref="char:EOLhyphen"/>ship could not be acceptable unto God, unless commanded by God.</p>
+               <p>The whole Work of Redemp<g ref="char:EOLhyphen"/>tion and Salvation of Mankind by Jesus Christ, was in every part and respect proceeding originally from, and effectually to fulfil the Will of God.
+<note place="margin">Ephes. 1.4. 2 Tim. 1.9. Tit. 1.2. Mat. 27.35 Mark 15.28. John 19.28, 36, 37.</note> Salvation by Christ was promised before the World began: In the fulness of Time he was made of a Woman; his Sufferings in every particular Cir<g ref="char:EOLhyphen"/>cumstance was to fulfil the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+               <pb n="54" facs="tcp:206472:28"/>
+               <p>Our Lord died according to the Scriptures,
+<note place="margin">1 Cor. 15.3, 4.</note> and rose again ac<g ref="char:EOLhyphen"/>cording to the Scriptures; that is, for the End appointed by the Word of God, to make full Satis<g ref="char:EOLhyphen"/>faction to the infinite Justice of God;
+<note place="margin">Heb. 9.9.</note> so as to make perfect the Comers unto God by Jesus Christ by Faith,
+<note place="margin">&amp; 10.1.</note> in whom the Heart is sprinkled from an evil Consci<g ref="char:EOLhyphen"/>ence;
+<note place="margin">&amp; 10.22.</note> that is, from the Consci<g ref="char:EOLhyphen"/>ence of the Guilt of Evil:
+<note place="margin">1 Cor. 15.17. 1 Pet. 3.21.</note> To ob<g ref="char:EOLhyphen"/>tain the Answer of a good Con<g ref="char:EOLhyphen"/>science towards God, by the Re<g ref="char:EOLhyphen"/>surrection of Jesus Christ, with<g ref="char:EOLhyphen"/>out which our Faith is vain, and we are yet in our Sins; void of any sufficient Plea to answer the Charge of the Law of Righteous<g ref="char:EOLhyphen"/>ness at the dreadful Tribunal of the Divine Majesty.</p>
+               <p>The manifold unsearchable Wisdom of God in the Admini<g ref="char:EOLhyphen"/>stration of the Riches of infinite Grace, exceeds what Creatures can ask or think. The most large and advantagious Pardon
+<pb n="55" facs="tcp:206472:28"/>from an Earthly Soveraign to a Rebel, cannot reclaim a Felon's Mind, or alter a Traitor's Heart. But they who are in Christ Jesus, and free from Condemnation, they have the Spirit of Christ, by which they are made new Creatures,
+<note place="margin">Rom. 8.</note> and enabled to walk not after the Flesh, but after the Spirit.
+<note place="margin">Eph. 3.18.</note> This is the Comprehen<g ref="char:EOLhyphen"/>sion of the Love of God in Christ extended to all Saints. Yet the primary Reason of the Death of our Lord Jesus Christ, was to make Satisfaction to the Justice of the holy Creator for the Sins of Rebel, Apostate Creatures. It then became a consequent Co<g ref="char:EOLhyphen"/>rollary of our Lord's Death, to awe from Sin, and represent the abominable Sinfulness of Sin. In all the righteous Administration of Rewards and Punishments, supreme Justice obtains the first and necessary Consideration; so that if there were no Persons to be deterred from future Crimes,
+<pb n="56" facs="tcp:206472:29"/>yet Justice requires severe Ani<g ref="char:EOLhyphen"/>madversion upon the present Ma<g ref="char:EOLhyphen"/>lefactor;
+<note place="margin">Rom. 3.5, 6</note> otherwise, How shall God judg the World? God can<g ref="char:EOLhyphen"/>not be unrighteous in taking Ven<g ref="char:EOLhyphen"/>geance upon the Damned in ever<g ref="char:EOLhyphen"/>lasting Torments, where there is no place for Repentance, nor Capacity for the Benefit of a de<g ref="char:EOLhyphen"/>terring Example.</p>
+               <p>The happy Sum of the Do<g ref="char:EOLhyphen"/>ctrine of Man's eternal Redemp<g ref="char:EOLhyphen"/>tion and Salvation is, That God hath given us the sure Mercies of <hi>David:</hi>
+                  <note place="margin">Act. 13.34.</note> He hath made with us an everlasting Covenant,
+<note place="margin">2 Sam. 23.5.</note> ordered in all things and sure; and this is all our Salvation: where no proud Pharisee can assume or impute to himself, nor any humble repen<g ref="char:EOLhyphen"/>ting Sinner doubt or despair: Wherein God willing more abun<g ref="char:EOLhyphen"/>dantly to shew unto the Heirs of Promise,
+<note place="margin">Heb. 6.17, 18.</note> the Immutability of his Counsel, confirmed it by an Oath, that by two immutable things, in which it was impossible for
+<pb n="57" facs="tcp:206472:29"/>God to lie, we might have a strong Consolation, who have fled for Refuge, to lay hold upon the Hope set before us; which we have as an Anchor of the Soul, sure and stedfast, <hi>Jesus Christ, the same yesterday, to day,</hi>
+                  <note place="margin">Heb. 13.8.</note>
+                  <hi>and for ever:</hi> Amen. Now for a Corollary to the precedent Dis<g ref="char:EOLhyphen"/>course, that it may be evidenced not to be a private Opinion, but the Doctrine of the Church of <hi>England</hi> according to the Scrip<g ref="char:EOLhyphen"/>tures, here are subjoined the Ex<g ref="char:EOLhyphen"/>pressions of the Homily of the Salvation of Mankind only by Christ our Saviour from Sin and Death Everlasting.</p>
+               <p>
+                  <hi>Because all Men be Sinners and Offenders against God,</hi>
+                  <note place="margin">Homily.</note>
+                  <hi>and Breakers of his Law and Commandments; therefore can no Man by his own Acts, Works and Deeds (seem they never so good) be justified and made righteous before God: But every Man of necessity is constrained to
+<pb n="58" facs="tcp:206472:30"/>seek for another Righteousness or Justification, to be received at God's own Hands, that is to say, the Forgiveness of his Sins and Tres<g ref="char:EOLhyphen"/>passes in such things as he hath of<g ref="char:EOLhyphen"/>fended.</hi>
+               </p>
+               <p>
+                  <hi>And this Justification or Righ<g ref="char:EOLhyphen"/>teousness which we so receive of God's Mercy, and Christ's Merits, embraced by Faith, is taken, ac<g ref="char:EOLhyphen"/>cepted and allowed of God for our perfect and full Justification. For the more full understanding hereof, it is our Parts and Duties ever to remember the great Mercy of God, how that (all the World being wrap<g ref="char:EOLhyphen"/>ped in Sin by breaking of the Law) God sent his only Son our Saviour Christ into this World, to fulfil the Law for us, by shedding of his most precious Blood to make a Sacrifice and Satisfaction, or (as it may be called) amends to his Father for our Sins, to asswage his Wrath and Indignation conceived against us for the same. But here may Man's Reason be astonied, reasoning after
+<pb n="59" facs="tcp:206472:30"/>this fashion: If a Ransom be paid for our Redemption, then is it not given us freely. For a Prisoner that paid his Ransom, is not let go freely; for if he goes freely, then he goeth without Ransom. For what is it else to go freely, than to be set at liberty without paying of Ransom? This Reason is satisfied by the great Wisdom of God in this Mystery of our Redemption, who hath so tempered his Justice and Mercy together, that he would nei<g ref="char:EOLhyphen"/>ther by his Justice condemn into the everlasting Captivity of the Devil, and his Prison of Hell, remediless for ever without Mercy, nor by his Mercy deliver us clearly without Justice or Payment of a just Ran<g ref="char:EOLhyphen"/>som: But with his endless Mercy he joined his most upright and equal Justice. His great Mercy he shewed unto us in delivering us from our former Captivity, without requiring any Ransom to be paid, or Amends to be made on our parts; which thing by us had been impossible to be
+<pb n="60" facs="tcp:206472:31"/>done: And whereas it lay not in us that to do, he provided a Ransom for us; that was the most precious Body and Blood of his own most dear and best beloved Son Jesus Christ, who besides this Ransom, fulfilled the Law for us perfectly; and so the Justice of God and his Mercy did embrace together, and fulfil the Mystery of our Redemption.</hi>
+               </p>
+               <p>
+                  <hi>And of this Justice and Mercy of God knit together, speaketh St.</hi> Paul <hi>in the third Chapter to the</hi> Romans;
+<note place="margin">Rom. 3.</note>
+                  <hi>All have offended, and have need of the Glory of God; but are justified freely by his Grace, by Redemption which is in Jesus Christ, whom God hath sent forth for us, for a Reconciler and Peace<g ref="char:EOLhyphen"/>maker through Faith in his Blood, to shew his Righteousness. And in the</hi> 10th <hi>Chapter, Christ is the End of the Law unto Righteousness to every Man that believeth. And in the</hi> 8th <hi>Chapter, That which was impossible by the Law, in as much as it was weak by the Flesh, God
+<pb n="61" facs="tcp:206472:31"/>sending his own Son in the simili<g ref="char:EOLhyphen"/>tude of sinful Flesh, by Sin damned Sin in the Flesh, that the Righte<g ref="char:EOLhyphen"/>ousness of the Law might be ful<g ref="char:EOLhyphen"/>filled in us, which walk not after the Flesh, but after the Spirit. In these aforesaid places the Apostle toucheth specially three things, which must go together in our Justification. Ʋpon God's part, his great Mercy and Grace: Ʋpon Christ's part, Justice, that is, the Satisfaction of God's Justice, or the Price of our Redemption by the offering of his Body and shedding of his Blood, with the fulfilling of the Law per<g ref="char:EOLhyphen"/>fectly and throughly: And upon our part true and lively Faith in the Merits of Jesus Christ, which yet is not ours, but by God's working in us. So that in our Justification is not only God's Mercy and Grace, but also his Justice, which the Apo<g ref="char:EOLhyphen"/>stle calleth the Justice of God; and it consisteth in paying our Ransom, and fulfilling of the Law: And so the Grace of God doth not shut out
+<pb n="62" facs="tcp:206472:32"/>the Justice of God in our Justifica<g ref="char:EOLhyphen"/>tion, but only shutteth out the Justice of Man; that is to say, the Justice of our Works as to be Merits of deserving our Justification. And therefore St.</hi> Paul <hi>declareth here nothing upon the behalf of Man concerning his Justification, but on<g ref="char:EOLhyphen"/>ly a true and lively Faith, which nevertheless is the Gift of God, and not Man's only Work without God. And yet that Faith does not shut out Repentance, Hope, Love, Dread, and the Fear of God, to be joined with Faith in every Man that is justified; but it shutteth them out from the Office of justifying. So that altho they be all present toge<g ref="char:EOLhyphen"/>ther in him that is justified, yet they justify not altogether. Nor the Faith also doth not shut out the Justice of our good Works, necessa<g ref="char:EOLhyphen"/>rily to be done afterwards of Duty towards God: (for we are most bounden to serve God in doing good Deeds, commanded by him in his holy Scripture, all the days of our
+<pb n="63" facs="tcp:206472:32"/>Life) but it excludeth them, so that we may not do them to this intent, to be made good by doing of them. For all the good Works that we can do be unperfect, and therefore not able to deserve for our Justification: But our Justifi<g ref="char:EOLhyphen"/>cation doth come freely by the meer Mercy of God, and of so great and free Mercy, that whereas all the World was not able of themselves to pay any part towards their Ran<g ref="char:EOLhyphen"/>som, it pleased our Heavenly Father of his infinite Mercy, without any our desert or deserving, to prepare for us the most precious Jewels of Christ's Body and Blood, whereby our Ransom might be fully paid, the Law fulfilled, and his Justice fully satisfied: So that now Christ is the Righteousness of all them that truly do believe in him. He for them paid their Ransom by his Death, he for them fulfilled the Law in his Life: So that now in and by him, every true Christian Man may be called a Fulfiller of the Law; foras<g ref="char:EOLhyphen"/>much
+<pb n="64" facs="tcp:206472:33"/>as that which their Infirmity lacked, Christ's Justice hath supplied.</hi>
+               </p>
+            </div>
+            <div n="64-118" type="pages">
+               <p>Now that the most important Truths which have been repre<g ref="char:EOLhyphen"/>sented in this small Treatise may appear in right Light, let the following Propositions be duly considered according to Reason, enlightned and directed by the Word of God.</p>
+               <p>God having given to Man an Intellectual Faculty, to judg and discern of the Nature, Use and Excellency of Things, a Consci<g ref="char:EOLhyphen"/>ence of the Laws of things mo<g ref="char:EOLhyphen"/>rally good or evil; and the cer<g ref="char:EOLhyphen"/>tain inseparable Appendixes of Rewards and Punishments are imprinted upon the Mind, with inward experimental Assurances, as certain as that we know that we are, and have a Being. The Demonstrations of which Truths are clearly manifested in the Word of God, the Scriptures of
+<pb n="65" facs="tcp:206472:33"/>the Old and New Testament,
+<note place="margin">Sacrae Scripturae non mo<g ref="char:EOLhyphen"/>vent, non persua<g ref="char:EOLhyphen"/>dent, sed cogunt, a<g ref="char:EOLhyphen"/>gitant, vim inferunt. <hi>Jo. Pic. Mirand. Ep. Herm. Barber.</hi>
+                  </note> which do not only move and per<g ref="char:EOLhyphen"/>swade, but effectually constrain and inforce an enlightened Soul to yield Obedience to the incom<g ref="char:EOLhyphen"/>parable and undeniable Divine Authority thereof, as to the Foun<g ref="char:EOLhyphen"/>tain of all saving Knowledg, and the Standard and Rule of all ho<g ref="char:EOLhyphen"/>ly Practice, in order to everlasting Blessedness, the supreme End and Felicity of Man. Now as Ma<g ref="char:EOLhyphen"/>thematical Theorems, tho equal<g ref="char:EOLhyphen"/>ly demonstrable, yet are not alike perceived and apprehended by every Human Mind, the Faculty not being rightly disposed to the Object as in <hi>species</hi> visible, it is not sufficient that the Object and Medium be duly disposed, un<g ref="char:EOLhyphen"/>less the Organ be sufficiently ena<g ref="char:EOLhyphen"/>bled and not disturbed: For nei<g ref="char:EOLhyphen"/>ther a blind Eye nor a Jaundice Sight can judg of Colours.</p>
+               <p>Accordingly the holy Scrip<g ref="char:EOLhyphen"/>tures, which are the lively Ora<g ref="char:EOLhyphen"/>cles of God, full of Lights and
+<pb n="66" facs="tcp:206472:34"/>Perfections, do fully demonstrate the great Mysteries of Godliness, concerning the eternal, invisible, yet certain and necessary Felici<g ref="char:EOLhyphen"/>ties, and Duties of Rational In<g ref="char:EOLhyphen"/>telligent Beings, whose Immor<g ref="char:EOLhyphen"/>tality also is therein undeniably proved: Yet notwithstanding, all these glorious and excellent Truths of the Spirit of God are not received by Animal Minds, to whom they are Foolishness, (as all sort of Wisdom is to Fools) because of the Blindness and Ignorance of the Understand<g ref="char:EOLhyphen"/>ing; the Mind it self (the go<g ref="char:EOLhyphen"/>verning Power in Man) being vitiated with the suffusion of Va<g ref="char:EOLhyphen"/>nity, and the deceitfulness of Sin, until the Power of the Spirit come into the Soul, with a quick<g ref="char:EOLhyphen"/>ning, renewing, restoring De<g ref="char:EOLhyphen"/>monstration upon the Intellectual Faculty, to make it receive in Love the benign Influences of eternal Truth and Goodness.</p>
+               <pb n="67" facs="tcp:206472:34"/>
+               <p>Accordingly consider duly,</p>
+               <p n="1">1. That from everlasting to everlasting, God is Infinite in his Perfection of all Divine Incom<g ref="char:EOLhyphen"/>prehensible Attributes, whose Es<g ref="char:EOLhyphen"/>sence is eternally in and of him<g ref="char:EOLhyphen"/>self, and gives and preserves all Beings, which were made for his Pleasure and Glory, according to his own Will, not out of any necessity of Nature, his Majesty being exalted above all Blessings and Praise: so that his infinite Essential Glory cannot be liable to any Addition or Detraction from any Creature.</p>
+               <p n="2">2. That in the beginning of Time God condescended to ma<g ref="char:EOLhyphen"/>nifest his immense Wisdom, Pow<g ref="char:EOLhyphen"/>er and Goodness in the Creation of the World, and all Beings therein, by the Word of his Power, by which all things are upheld and do consist: All be<g ref="char:EOLhyphen"/>ing made and preserved for the
+<pb n="68" facs="tcp:206472:35"/>Glory of God, according to the Original Law of the Will of God respectively dispensed to e<g ref="char:EOLhyphen"/>very Being.</p>
+               <p n="3">3. That all things were made for distinct final Causes, appoin<g ref="char:EOLhyphen"/>ted by the Law of God to be the Rule for the Operation of Life conferr'd upon every Being.</p>
+               <p n="4">4. That the Providence of God doth actually, effectually, conti<g ref="char:EOLhyphen"/>nually govern and over-rule all the Actions and Operations of all Beings to his Glory, according to his determinate Counsels. For known unto God are all his Works from the beginning of the World; so that all contingent Effects and Actions of all created Beings, are not only futurely turned and disposed, but prima<g ref="char:EOLhyphen"/>rily decreed and ordered to be in<g ref="char:EOLhyphen"/>fallibly subservient to the Glory of God's eternal Truth, Justice and Goodness.</p>
+               <p n="5">5. That as Activity and O<g ref="char:EOLhyphen"/>peration is the necessary Ex<g ref="char:EOLhyphen"/>pression
+<pb n="69" facs="tcp:206472:35"/>of Life, it is also necessa<g ref="char:EOLhyphen"/>ry that there be an universal Law to direct, regulate and judg the Affections and Actions of all Intelligent Beings: Which Law can only be the holy and righ<g ref="char:EOLhyphen"/>teous Will of God, the Creator of all Beings, who only can righ<g ref="char:EOLhyphen"/>teously reward and punish all Actions.</p>
+               <p n="6">6. God made Man upright in his Divine Image of Righteous<g ref="char:EOLhyphen"/>ness, Knowledg and Holiness, with Freedom of Will, but under a Covenant of Life upon Obedi<g ref="char:EOLhyphen"/>ence, and of Death upon Disobe<g ref="char:EOLhyphen"/>dience, which is Sin: For Sin is the rebellious Transgression of the Law.</p>
+               <p n="7">7. Man, tho made upright, being left to the Freedom of his Will, rebelled against and re<g ref="char:EOLhyphen"/>nounced God his Creator in his all-sufficient Truth and Good<g ref="char:EOLhyphen"/>ness, and sought out and embraced the Vanity and Iniquity of the Devil's Lie; by which Apostacy
+<pb n="70" facs="tcp:206472:36"/>and Rebellion, Mankind fell into a state of the Condemnation and Corruption of Death, which is endless Misery, according to the righteous Judgment of God.</p>
+               <p n="8">8. The first Parents of Man<g ref="char:EOLhyphen"/>kind were not only Persons indi<g ref="char:EOLhyphen"/>vidual, but common Representa<g ref="char:EOLhyphen"/>tives of all their Posterity.</p>
+               <p>The Evidence whereof neces<g ref="char:EOLhyphen"/>sarily flows from the Considera<g ref="char:EOLhyphen"/>tion of the Covenant of Life, which God made with Man, when created and placed in Para<g ref="char:EOLhyphen"/>dise: The eating of the Tree of Knowledg of Good and Evil be<g ref="char:EOLhyphen"/>ing threatned with Death, which passed upon all Mankind both In<g ref="char:EOLhyphen"/>fants and Adult, according to the righteous Denunciation of God, and the Consent of Man neces<g ref="char:EOLhyphen"/>sarily supposed; for otherwise the refusal to consent would have been a Sin, preceding the Trans<g ref="char:EOLhyphen"/>gression in eating the forbidden Fruit.</p>
+               <pb n="71" facs="tcp:206472:36"/>
+               <p>The Equity of this is owned by the universal Justice of all Nations, according to which ca<g ref="char:EOLhyphen"/>pital Crimes of Parents corrupt the Blood, and devest the Poste<g ref="char:EOLhyphen"/>rity of all Privilege conferred up<g ref="char:EOLhyphen"/>on such Families.</p>
+               <p>Thus all the World must justi<g ref="char:EOLhyphen"/>fy the Ways of God to be most equal.</p>
+               <p n="9">9. The Apostacy of Mankind was not only one transient Act of Offence against a positive Com<g ref="char:EOLhyphen"/>mand, but the Sinfulness of Sin extended to an utter Renuncia<g ref="char:EOLhyphen"/>tion of the Love and Fear of God, and introduced a Corrup<g ref="char:EOLhyphen"/>tion which the Scripture stiles Death, in all the Powers and Fa<g ref="char:EOLhyphen"/>culties of a created Life.</p>
+               <p n="10">10. The Justice of God being infinite, the rebellious Offence against that Justice must necessa<g ref="char:EOLhyphen"/>rily incur an everlasting Punish<g ref="char:EOLhyphen"/>ment: Such as the Infinite Wis<g ref="char:EOLhyphen"/>dom, Righteousness and Holi<g ref="char:EOLhyphen"/>ness of God the Creator deter<g ref="char:EOLhyphen"/>mines
+<pb n="72" facs="tcp:206472:37"/>to inflict, to vindicate his Glory.</p>
+               <p n="11">11. the Salvation and Re<g ref="char:EOLhyphen"/>demption of Man liable to eter<g ref="char:EOLhyphen"/>nal Wrath, as it proceeds only from the free Grace of God, so it is impossible to be effected without Satisfaction to the infi<g ref="char:EOLhyphen"/>nite Justice of God: For with<g ref="char:EOLhyphen"/>out such Satisfaction the God<g ref="char:EOLhyphen"/>head would be exposed to con<g ref="char:EOLhyphen"/>tinual Dishonour; and the Foun<g ref="char:EOLhyphen"/>tain of all Righteousness residing only in the infinite Justice of God, (the violation thereof re<g ref="char:EOLhyphen"/>maining unsatisfied) consequent<g ref="char:EOLhyphen"/>ly there must be always a failure of common Justice in the World.</p>
+               <p n="12">12. It was impossible for any meer finite Creature to satisfy the Offence done by Sin against the infinite Justice and Majesty of the Creator.</p>
+               <p n="13">13. It was impossible and also unlawful for any finite created Intelligence, to imagine, or con<g ref="char:EOLhyphen"/>trive, or effect a due Satisfaction
+<pb n="73" facs="tcp:206472:37"/>for the Rebellion of the Crea<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="14">14. It is the undeniable Sove<g ref="char:EOLhyphen"/>reign Propriety and Right of God blessed for ever, the Creator and Possessor of all Beings, to con<g ref="char:EOLhyphen"/>trive, appoint and accomplish the Means of Satisfaction to his own infinite Justice, and of Salvation for his miserable, condemned, corrupted Creature.</p>
+               <p n="15">15. Right Reason is the Fa<g ref="char:EOLhyphen"/>culty of discerning the difference between Good and Evil: The Lamp of God for intellectual Evidence <hi>for</hi> the practical Judg<g ref="char:EOLhyphen"/>ment concerning all Objects,
+<note place="margin">Prov. 20, 27.</note> be<g ref="char:EOLhyphen"/>ing derived from and the Exer<g ref="char:EOLhyphen"/>cise of Knowledge, which is part of the Image of God in Man; but this being lost by Man's sin<g ref="char:EOLhyphen"/>ful Apostacy from God, there is necessity of the recovery and re<g ref="char:EOLhyphen"/>newal of the Faculty of right Reason by supernatural Light and Power.
+<note place="margin">Prov. 6.23. Heb. 8.10.</note>
+               </p>
+               <pb n="74" facs="tcp:206472:38"/>
+               <p n="16">16. Tho the invisible things of God, even his eternal Power and Godhead, are clearly seen from the Creation of the World, so as to leave Man without Ex<g ref="char:EOLhyphen"/>cuse: Yet the Manifestation of the Grace of God for the Salva<g ref="char:EOLhyphen"/>tion of Sinners, through the Sa<g ref="char:EOLhyphen"/>tisfaction of his Justice by a Re<g ref="char:EOLhyphen"/>deemer, is and can only be re<g ref="char:EOLhyphen"/>vealed by the Word of God con<g ref="char:EOLhyphen"/>tained in the holy Scriptures of the Old and New Testament, and made effectual upon the Heart and Mind of Man by the holy Spirit.
+<note place="margin">1 Cor.</note> For <hi>the things of God knoweth no Man, but the Spirit of God: But God hath revealed them unto us by his Spirit; for the Spirit searcheth all things, yea, the deep things of God.</hi>
+               </p>
+               <p n="17">17. God who at sundry times, and in divers manners spake in time past unto the Fathers by the Prophets, hath in these last days compleated the whole Canon and comprehensive Cycle of the Re<g ref="char:EOLhyphen"/>velation
+<pb n="75" facs="tcp:206472:38"/>of his Will, as the only Standard in Truth and Goodness for the Faith and Obedience of Mankind.</p>
+               <p n="18">18. The Word of God con<g ref="char:EOLhyphen"/>tained in the holy Scriptures fully makes known the Love of God in Christ which passeth Know<g ref="char:EOLhyphen"/>ledg, even the Kindness and Love of God our Saviour towards Man, which first appeared in the Pro<g ref="char:EOLhyphen"/>mise of a Redeemer, confirm'd according to the manifold Wis<g ref="char:EOLhyphen"/>dom of God, by the Institution of propitiatory Typical Sacrifices and Ceremonial Worships, as Shadows, and Pledges, and Sym<g ref="char:EOLhyphen"/>bols; that in the fulness of Time God should be manifested in the Flesh, even Jesus Christ the eter<g ref="char:EOLhyphen"/>nal Son of God, who is the true God and eternal Life.</p>
+               <p n="19">19. It is impossible for an in<g ref="char:EOLhyphen"/>telligent Being to devest the knowledg and obligation of De<g ref="char:EOLhyphen"/>pendance upon God his Creator and Preserver: Consequently the
+<pb n="76" facs="tcp:206472:39"/>Devotion of continual Worship is indispensable Duty and Felicity, in drawing near to God, the only infinite, eternal, all-sufficient and necessary Good.</p>
+               <p>It is also undeniably true, that the only Rule of acceptable ad<g ref="char:EOLhyphen"/>vantagious Worship must be the revealed Will of God: For only God can direct and teach how He will be supplicated and wor<g ref="char:EOLhyphen"/>shipped. The knowledg of this Rule in the Manifestation of the Light and Perfection of Divine Truth and Goodness, is only to be found in the Scriptures of the Old and New Testament, where<g ref="char:EOLhyphen"/>in is revealed the absolute Sim<g ref="char:EOLhyphen"/>plicity and Perfection of the Christian Religion, freed from the Confusion of vain and fa<g ref="char:EOLhyphen"/>bulous Superstition and Will<g ref="char:EOLhyphen"/>worship.</p>
+               <p n="20">20. The Covenant of Life and Happiness vouchsafed by God to Man upon his first Crea<g ref="char:EOLhyphen"/>tion, being by Man's Apostacy
+<pb n="77" facs="tcp:206472:39"/>forfeited, and the Ability to ful<g ref="char:EOLhyphen"/>fil it utterly lost:</p>
+               <p>A second Covenant (called the Covenant of Grace) absolutely free on God's part, but intirely necessary on the part of Man, is by God instituted for the Sal<g ref="char:EOLhyphen"/>vation of Man: The Tenor of the Engagement to which Cove<g ref="char:EOLhyphen"/>nant is the Institution of Bap<g ref="char:EOLhyphen"/>tism, in the Name of the Father, and of the Son, and of the Holy Ghost.</p>
+               <p>In which Ordinance is sum<g ref="char:EOLhyphen"/>marily represented the Truth of the Doctrine of the Divine Tri<g ref="char:EOLhyphen"/>nity in the Unity of the God<g ref="char:EOLhyphen"/>head: for as the Father is revealed to be the God of Glory, so is the Son to be the Lord of Glory, and the Holy Ghost the Spirit of Glory.</p>
+               <p>The incommunicable Attri<g ref="char:EOLhyphen"/>butes of the Deity being ascribed unto the Son, and to the Holy Ghost, as unto the Father, in re<g ref="char:EOLhyphen"/>spect of Creation, of Preserva<g ref="char:EOLhyphen"/>tion,
+<pb n="78" facs="tcp:206472:40"/>of Regeneration, of Omni<g ref="char:EOLhyphen"/>science; the Necessity of Re<g ref="char:EOLhyphen"/>demption and Regeneration is evinced by the Misery and Death common to all, and by the uni<g ref="char:EOLhyphen"/>versal depraved Vitiosity of all Mankind. Now it is impossible that either Redemption or Re<g ref="char:EOLhyphen"/>generation can be effected by less Power than Divine Omnipotence and Omniscience.</p>
+               <p>The knowledg of the Heart in all the inmost Recesses of Thought and Imagination is ascri<g ref="char:EOLhyphen"/>bed to Jesus Christ, and to the Holy Ghost.</p>
+               <p>The contrary cannot be fancied without the greatest Absurdity: For if the Redeemer and Media<g ref="char:EOLhyphen"/>tor were not essentially able to know all the Thoughts and Dis<g ref="char:EOLhyphen"/>positions of the Heart of Man, then some profane Hypocrite might mock, or defeat with false pretended Devotion the Inter<g ref="char:EOLhyphen"/>cession of our Redeemer, or wic<g ref="char:EOLhyphen"/>kedly and securely lie to the Holy
+<pb n="79" facs="tcp:206472:40"/>Ghost: Also something most ne<g ref="char:EOLhyphen"/>cessary for a Sinner, might escape the discern of our Mediator, so that he could not be a Saviour to the uttermost; consequently they who come to God by him must remain most miserable.</p>
+               <p>The essential Being of God is of such terrible Majesty, covered with the Light, dwelling in the Light inaccessible; so that no created Intelligence can possibly arrive at any due Perception of the Godhead, but only according to the Revelation whereby God vouchsafed the Manifestation of his infinite incomprehensible Be<g ref="char:EOLhyphen"/>ing; which Manifestation of the Deity is given in his Word of Truth to be God the Father, God the Son, God the Holy Ghost, one and the same living and true God, blessed for ever.</p>
+               <p n="21">21. The Efficacy of the Co<g ref="char:EOLhyphen"/>venant of Grace consists in Re<g ref="char:EOLhyphen"/>demption and Regeneration.</p>
+               <pb n="80" facs="tcp:206472:41"/>
+               <p>Redemption by the Propitia<g ref="char:EOLhyphen"/>tion to Divine Justice through the Satisfactory Merits of the Sufferings, Death and Righteous<g ref="char:EOLhyphen"/>ness of our Lord Jesus Christ, according to the Will of God for the Justification of a Sinner.</p>
+               <p>Regeneration by the Holy Ghost in the Renovation of the Soul, quickened and sanctified in all the intellectual Faculties unto Newness of Life by a new spiri<g ref="char:EOLhyphen"/>tual Birth.</p>
+               <p>The Condition of the Cove<g ref="char:EOLhyphen"/>nant is Faith, fiducially resting on Christ, and vitally uniting unto Christ for Justification and Sanctification by effectual Voca<g ref="char:EOLhyphen"/>tion.</p>
+               <p>The Obligation and indispen<g ref="char:EOLhyphen"/>sable Duty of the Covenant, is the Obedience of Faith working by Love in the fulfilling all the Commandments of God.</p>
+               <p n="22">22. The Covenant of Works being made with the first <hi>Adam</hi> who was a meer Creature, and
+<pb n="81" facs="tcp:206472:41"/>therefore liable to fall when left to the freedom of his Will, the Perseverance in his created Up<g ref="char:EOLhyphen"/>rightness could not be secure: But the Covenant of Grace being made with the second <hi>Adam,</hi> the Lord from Heaven, both the Per<g ref="char:EOLhyphen"/>formance of the Duty of Obe<g ref="char:EOLhyphen"/>dience to the Precepts of the Co<g ref="char:EOLhyphen"/>venant, and the final Perseve<g ref="char:EOLhyphen"/>rance in the Conditions of the Covenant, are according to the Promise of God, by the Spirit of God, enabled to, preserved in, and perfected.</p>
+               <p>So that no believing Sinner may presume in himself, or despair in the Grace of God, by whose Power he is kept through Faith unto Salvation.</p>
+               <p>The everlasting Covenant is ordered in all things and sure; for this is our Salvation, that no<g ref="char:EOLhyphen"/>thing shall be able to separate us from the Love of God, which is in Christ Jesus our Lord.</p>
+               <pb n="82" facs="tcp:206472:42"/>
+               <p n="23">23. That which is stiled Na<g ref="char:EOLhyphen"/>tural Religion, is the Rational Conviction upon the Intelligent Mind of Man, of indispensable Duty to fear, trust, obey, believe and love God with all his Heart, Mind and Strength, according to the Commandments of God.</p>
+               <p>Therefore there is a necessity of the Revelation of the Will of God, by which is made known the compleat Perfection of insti<g ref="char:EOLhyphen"/>tuted Religion.</p>
+               <p>Instituted Religion is the Rule of true Wisdom to bring Man<g ref="char:EOLhyphen"/>kind to eternal Happiness, by di<g ref="char:EOLhyphen"/>recting all his Affections and Actions in the Fear, Faith and Love of God, to their proper Objects, according to the Will of God, and the Glory of God.</p>
+               <p>That Religion only is true, which is the Practice of Obedi<g ref="char:EOLhyphen"/>ence to the Word of God, and accordingly brings us to God in Spiritual Worship by Jesus Christ alone, who is the only Mediator
+<pb n="83" facs="tcp:206472:42"/>of Redemption and Intercession. That Wisdom which was the Enquiry of Philosophy, the De<g ref="char:EOLhyphen"/>monstration of Theology, is the Possession and Practice of the pure undefiled Christian Religion, which removed from all Profane<g ref="char:EOLhyphen"/>ness, Superstition and Will-wor<g ref="char:EOLhyphen"/>ship, is the commanded and ac<g ref="char:EOLhyphen"/>cepted way of Worship to God in Spirit and in Truth, of Obe<g ref="char:EOLhyphen"/>dience to all the Commandments of God from Love to God, of Righteousness to the Neighbour, with Love, as to ones self, of Ho<g ref="char:EOLhyphen"/>liness and Sobriety, in respect of his own Person made and renew<g ref="char:EOLhyphen"/>ed in the Image of God, all upon hope of everlasting Blessedness to the Glory of God.
+<note place="margin">Rom. 5.2.</note>
+               </p>
+               <p>This Religion is the Characte<g ref="char:EOLhyphen"/>ristick Excellency of Man, and is the only true Cement and Se<g ref="char:EOLhyphen"/>curity of Mankind in all Condi<g ref="char:EOLhyphen"/>tions and Relations.</p>
+               <p n="24">24. The Felicity to which the Christian Religion gives Title
+<pb n="84" facs="tcp:206472:43"/>and Possession, is both temporary and everlasting. In this Life Conversion from Darkness unto Light, from the Power of Satan unto God, from the Folly and Madness of Vanity and Sin, unto the Fear and Love of God, which is the beginning of true Wisdom; Justification from the Guilt of Sin, and thereby Peace with God; Sanctification by the renewing of the Image of God in Righteous<g ref="char:EOLhyphen"/>ness, Knowledg and true Holi<g ref="char:EOLhyphen"/>ness, by the Spirit of God dwelling in the Soul, to quicken, direct, preserve in the Paths of Righ<g ref="char:EOLhyphen"/>teousness from all Apostacy; A<g ref="char:EOLhyphen"/>doption to be a Child of God, an Heir of Heaven, and to have Right and Acceptance to cry <hi>Abba,</hi> Father; that is, to be emboldened to approach the Throne of Grace, and to offer continual Sacrifices of Supplica<g ref="char:EOLhyphen"/>tion and Thanksgiving, upon our only great and glorious Altar,
+<note place="margin">Heb. 13.10, 15.</note> the Lord Jesus Christ, in him
+<pb n="85" facs="tcp:206472:43"/>drawing near to God our exceed<g ref="char:EOLhyphen"/>ing Joy.
+<note place="margin">Psal. 43.4.</note>
+               </p>
+               <p>This State gives Contentation in every Condition, under the assurance that all things shall work together for our good, and that all our most difficult Labour to resist Temptation, to over<g ref="char:EOLhyphen"/>come the World, to mortify Cor<g ref="char:EOLhyphen"/>ruptions, to deny Self, shall not be in vain in the Lord, but shall receive a full Recompence of Re<g ref="char:EOLhyphen"/>ward in the Kingdom of Hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p>Therefore whatsoever is done or suffered, is in hope of the Glo<g ref="char:EOLhyphen"/>ry of God, knowing that the State of this present World is not capable to receive the Bles<g ref="char:EOLhyphen"/>sedness and Glory of Eternity in Heaven.</p>
+               <p>The Felicity of Eternity can<g ref="char:EOLhyphen"/>not possibly be represented, or de<g ref="char:EOLhyphen"/>clared by the Tongues of Men and Angels. Unspeakable Words,
+<note place="margin">2 Cor. 13.4,</note> uncapable to be heard or uttered in this Vale of Tears, are necessary
+<pb n="86" facs="tcp:206472:44"/>to set forth what Eye hath not seen,
+<note place="margin">Psal. 31.19. Isa. 64.4. 1 Cor. 2.9.</note> nor Ear heard, neither have entred into the Heart of Man, the things which God hath pre<g ref="char:EOLhyphen"/>pared for them that love him, and fear him, and wait for him, and trust in him, before the Sons of Men. This is that immense Felicity when we shall know as we are known, and shall be chan<g ref="char:EOLhyphen"/>ged into the same Image, from Glory to Glory, even as by the Spirit of the Lord, in the Beati<g ref="char:EOLhyphen"/>fick Vision of God to all Eternity, when the Lord shall bring all his Servants into the Possessions of the Joy and Glory of that King<g ref="char:EOLhyphen"/>dom, which God hath prepared for them before the Foundation of the World. But most dismal shall be the woful Misery of those who refuse to obey the Gospel commanding to crucify the Flesh, with the Affections and Lusts, to renounce a vain Conformity to the Pomps and Pleasures of the World; to for<g ref="char:EOLhyphen"/>sake
+<pb n="87" facs="tcp:206472:44"/>sake a vain Conversation, received by Tradition from our Fore<g ref="char:EOLhyphen"/>fathers; to deny self, so as to cut off Right-hand and Foot, and pluck out right-Eye and to cast them away. They that account such Lessons too difficult to be observed, must hear, and perish under the Sentence, Depart from me ye Workers of Iniquity into everlasting Fire, where the Worm shall never die, and the Fire shall never be quenched.</p>
+               <p>The Conclusion and Sum of the whole is this.</p>
+               <p>In the beginning, <hi>i. e.</hi>
+                  <note place="margin">Joh. 1.1, 3.</note> from Eternity, was the Essential Word, and the Word was with God: <hi>All things were made by him, and without him was not any thing made that was made.</hi>
+                  <note place="margin">1 Tim. 3.16.</note> Who in the ful<g ref="char:EOLhyphen"/>ness of Time was God manifested in the Flesh; for of the Seed of <hi>Abraham,</hi> as concerning the Flesh, Christ came, <hi>who is over all,</hi>
+                  <note place="margin">Rom. 9.5.</note>
+                  <hi>God blessed for ever.</hi> Amen. <hi>In whom
+<pb n="88" facs="tcp:206472:45"/>we have Redemption through his Blood,</hi>
+                  <note place="margin">Col. 1.14, 15, 16, 17, 18, 19, 20.</note>
+                  <hi>even the forgiveness of Sins: Who is the Image of the invisible God, the first-born of every Crea<g ref="char:EOLhyphen"/>ture. For by him were all things created, that are in Heaven, and that are in Earth, visible and in<g ref="char:EOLhyphen"/>visible; whether they be Thrones, or Dominions, or Principalities, or Powers: All things were created by him, and for him. And he is be<g ref="char:EOLhyphen"/>fore all things, and by him all things consist. And he is the Head of the Body, the Church: who is the beginning, the first-born from the dead, that in all things he might have the Preheminence. For it pleased the Father, that in him all Fulness should dwell: And having made Peace through the Blood of his Cross, by him to reconcile all things unto himself, whether things in Earth,</hi>
+                  <note place="margin">Heb. 1.1, 2, 3, 8.</note>
+                  <hi>or things in Heaven. God who at sundry times, and in divers manners spake in time past unto the Fathers by the Prophets, hath in these last days spoken unto us by his Son,
+<pb n="89" facs="tcp:206472:45"/>whom he hath appointed Heir of all things; by whom also he made the Worlds. Who being the Bright<g ref="char:EOLhyphen"/>ness of his Glory, and the express Image of his Person, and uphold<g ref="char:EOLhyphen"/>ing all things by the Word of his Power, when he had by himself purged our Sins, sat down on the Right-hand of the Majesty on high. For unto the Son he saith, Thy Throne, O God, is for ever and ever; a Scepter of Righteousness is the Scepter of thy Kingdom. Because God hath appointed a Day in the which he will judg the World in Righteousness,</hi>
+                  <note place="margin">Act. 17.31.</note>
+                  <hi>by that Man whom he hath ordained, whereof he hath given Assurance unto all Men, in that he hath raised him from the dead.</hi>
+               </p>
+               <p>
+                  <hi>Now it is easier for Heaven and Earth to pass,</hi>
+                  <note place="margin">Luke 16.17.</note>
+                  <hi>than one tittle of the Law to fail.</hi> The Son of Man shall come in his Glory, and all the holy Angels with him; then shall he sit upon the Throne of his Glory, and before him shall
+<pb n="90" facs="tcp:206472:46"/>all Nations be gathered.
+<note place="margin">Mat. 25.3, 12.</note> Then the foolish Virgins, that neglected opportunity to provide Oil, shall be excluded Heaven: They that in divers Instances agreed in one Consent to prefer and over-value present Animal Enjoyments be<g ref="char:EOLhyphen"/>fore the Lord's Invitation to his Marriage-Supper,
+<note place="margin">Luke 14.18.</note> shall never taste of Eternal Life.</p>
+               <p>They that thought it a hard Saying and not to be born, the Command of our Lord to cruci<g ref="char:EOLhyphen"/>fy the Flesh with the Affections and Lusts, to renounce a vain Conversation and a Conformity to the Fashion of the World which passeth away, that refuse to deny self, to take up the Cross, to cut off right Hand and Foot, and pluck out right Eye, and cast them away.</p>
+               <p>All such must hear, and perish for ever under that dreadful Word,
+<note place="margin">Mat. 25.41</note>
+                  <hi>Depart from me ye cursed, into everlasting Fire, prepared for the Devil and his Angels.</hi> But
+<pb n="91" facs="tcp:206472:46"/>on the other side, to those who believed the Truth as it is in Jesus, without contradicting or blaspheming, received it in Love and the Obedience of Faith, not holding it in Unrighteousness, <hi>the King shall say,</hi>
+                  <note place="margin">Ver. 34,</note>
+                  <hi>Come ye blessed of my Father, inherit the Kingdom prepared for you from the Founda<g ref="char:EOLhyphen"/>tion of the World.</hi> But where shall ungodly Sinners appear, that send after the Lord Jesus into Heaven this Rebel Message, <hi>We will not have this Man to reign over us?</hi>
+                  <note place="margin">Luke,</note>
+               </p>
+               <p>That renounce the Satisfaction and Redemption of Christ, that blasphemously deny the Deity of Jesus Christ the Lord of Glory, they shall say to the Mountains and Rocks, <hi>Fall on us,</hi>
+                  <note place="margin">Rev. 6.16, 17.</note>
+                  <hi>and hide us from the Face of him that sit<g ref="char:EOLhyphen"/>teth on the Throne, and from the Wrath of the Lamb: For the great Day of his Wrath is come, and who shall be able to stand?</hi>
+               </p>
+               <pb n="92" facs="tcp:206472:47"/>
+               <p>Few Men have been found in any Age or Country, to have filled their Hearts with such profligate Madness to deny God. Indeed <hi>Cicero</hi> saith, that <hi>Epicurus</hi> while in words he allowed a Deity, he did really and by pretended Notions utterly disavow the Providence of God, without which the Name of God must be an empty and contemptible Sound.</p>
+               <p>For, as <hi>Cicero</hi> observes, if the Fear of God, and Reverential Regard to the actual Providence of God be denied, or weakened, thereby also the common Faith and Security of human Society, and the Ground and Foundation of universal commutative and distributive Justice, is altogether subverted.</p>
+               <p>The Psalmist affirms,
+<note place="margin">Psal. 14.1,</note> that the Fool hath said in his Heart, there is no God. That is the Disposition and working of his Heart in the desperate Wickedness and unex<g ref="char:EOLhyphen"/>pressible Deceitfulness of all its
+<note place="margin">Jer. 17.9.</note>
+                  <pb n="93" facs="tcp:206472:47"/>Purposes and vain Imagination, to avow the casting off the regard of God.</p>
+               <p>Therefore the Psalmist imme<g ref="char:EOLhyphen"/>diately adds, They have done abo<g ref="char:EOLhyphen"/>minable Works, there is none that doth good. Accordingly the Psalmist again expresses,
+<note place="margin">Psal. 36.1, 2.</note>
+                  <hi>The Transgression of the wicked saith within my Heart, that there is no Fear of God before his Eyes: For he flattereth himself in his own Eyes, until his Iniquity be found to be hateful.</hi>
+               </p>
+               <p>It is therefore most irrational Dementation to detract from the infinite Perfections of the Eternal God; for thereby Man is left in a wretched Condition, more abject than that of the Beast which pe<g ref="char:EOLhyphen"/>rishes, liable to the Miseries of this Life without the help of the Awe and Encouragement of fu<g ref="char:EOLhyphen"/>ture Punishments and Rewards.</p>
+               <p>There needs not any Foreign Topick of Argumentation to prove the Existence of God, and
+<pb n="94" facs="tcp:206472:48"/>his absolute Soveraignty over all Beings. For the Conscience of Good and Evil radicated in every human Intelligence, is a con<g ref="char:EOLhyphen"/>tinual and unanswerable Evi<g ref="char:EOLhyphen"/>dence of the infinite Perfections of the Eternal God, blessed for ever.</p>
+               <p>It is most absurd Folly and Contradiction, to own a Nominal God, and to deny the Essential Attributes of the infinite Per<g ref="char:EOLhyphen"/>fection of the Deity. Eternal Being, Truth and Goodness are the infinite Perfections of one Almighty, All-sufficient God.</p>
+               <p>Eternity of Being implies Ori<g ref="char:EOLhyphen"/>ginal Essential Existence absolute<g ref="char:EOLhyphen"/>ly simple, altogether independent, wholly immutable, universally powerful, every-where present.</p>
+               <p>From whence flows Almighty Power, to create and uphold all things according to his Will; to be the only Cause of all other Be<g ref="char:EOLhyphen"/>ings, and of all Causes of their Life, with all distinct and proper
+<pb n="95" facs="tcp:206472:48"/>Abilities thereof; of their Ope<g ref="char:EOLhyphen"/>ration, with all the Powers of Ex<g ref="char:EOLhyphen"/>ercise, Rules or Limits to direct and govern, and End of Perfor<g ref="char:EOLhyphen"/>mance.</p>
+               <p>Of their Subsistence with all Circumstances of Time and Place, for the Beginning, Continuance or Progress, and finishing their Course with all diversity and alte<g ref="char:EOLhyphen"/>rations of Condition therein, Sustentation and Regulation, as necessarily flowing from, and de<g ref="char:EOLhyphen"/>pending upon God as Origina<g ref="char:EOLhyphen"/>tion.</p>
+               <p>Truth is original, eternal, in<g ref="char:EOLhyphen"/>finite Righteousness, and Holiness, and Knowledg; the Perfection of excellent Eminence, whereby the Divine Majesty and Essence is infinitely exalted above, and se<g ref="char:EOLhyphen"/>parated from all possibility of Communion with, or Respect un<g ref="char:EOLhyphen"/>to Vanity, Impurity, Unrighteous<g ref="char:EOLhyphen"/>ness, or Wickedness, and doth sa<g ref="char:EOLhyphen"/>tisfyingly rest in his own All-sufficient Soveraignty: Thence
+<pb n="96" facs="tcp:206472:49"/>derives and dispenses to all Crea<g ref="char:EOLhyphen"/>tures the Law of Truth, to guide and direct inherently the Susten<g ref="char:EOLhyphen"/>tation, Operation and final De<g ref="char:EOLhyphen"/>termination of all Beings, accor<g ref="char:EOLhyphen"/>ding to their several respective Natures, for the mutual Support, Preservation and Comfort of the Universe, all in subordinate ne<g ref="char:EOLhyphen"/>cessary Subjection to the supreme Obedience unto the Will of God, and ultimate Aim and Regard to the Glory of God.</p>
+               <p>The Effect of this eternal Truth is the Stream of Truth, the Law of universal Justice, Righteousness, Equity, by God implanted in the Nature of all Rational Creatures, to direct and judg all their Affections and Actions.</p>
+               <p>This is Truth scoffed by the Profane, vainly discoursed by Mo<g ref="char:EOLhyphen"/>rosophists, found possessed and enjoyed as the Happiness of all that fear and love God.</p>
+               <pb n="97" facs="tcp:206472:49"/>
+               <p>This assigns the End to all Controversy, is the Standard of Conscience, and the Basis of all Rational Conversation.</p>
+               <p>The Manifestation of this Truth is the revealed Will of God.</p>
+               <p>For Knowledg in God both satisfyingly comprehends the All-sufficient Perfection of the Di<g ref="char:EOLhyphen"/>vine Essence, and effectually de<g ref="char:EOLhyphen"/>termines and appoints the Na<g ref="char:EOLhyphen"/>ture, Operation, Use and End of all Beings to his Glory.</p>
+               <p>According to the Conformity to, or Alienation from this Eter<g ref="char:EOLhyphen"/>nal Truth, is the Result of Hap<g ref="char:EOLhyphen"/>piness or Misery to every Ratio<g ref="char:EOLhyphen"/>nal Being: For Divine Truth and Goodness are convertible and inseparable.</p>
+               <p>God only is good originally, essentially, infinitely, eternally, all-sufficiently.</p>
+               <p>Goodness is the Root, the Branches are Love; God is Love,
+<pb n="98" facs="tcp:206472:50"/>Mercy; God is the Father of Mercies, Consolation: God is the God of all Comfort, Patience and Long-suffering; God is the God of Patience, and his Long-suffering is Salvation; his Loving-kindness is better than Life.</p>
+               <p>Forgiveness is with the Lord, that he may be feared:
+<note place="margin">Psal. 130.4, 7.</note>
+                  <hi>Let</hi> Israel <hi>hope in the Lord, for with the Lord there is Mercy; and with him is plenteous Redemption.</hi>
+               </p>
+               <p>But this abundant Mercy is not in any respect Encouragement to Presumption,
+<note place="margin">Rom. 6.1, 2</note> or continuance in Sin:
+<note place="margin">Rom. 2.4, 5</note> for that is to despise the Riches of his Goodness, and For<g ref="char:EOLhyphen"/>bearance, and Long-suffering; not knowing that the Goodness of God leadeth to Repentance; but after the Hardness and Im<g ref="char:EOLhyphen"/>penitency of Heart, treasureth unto it self Wrath against the day of Wrath, and Revelation of the righteous Judgment of God.</p>
+               <pb n="99" facs="tcp:206472:50"/>
+               <p>God that dwells in Light inaccessible, cannot be perceived and apprehended in any other Manifestation than as he is plea<g ref="char:EOLhyphen"/>sed to reveal himself, which can only be in his Word, wherein tho there be sufficient Evidence to satisfy a created Intelligence what is the infinite Excellence of the Divine Object of Wor<g ref="char:EOLhyphen"/>ship, yet it remains absolutely impossible for the most exalted created Mind fully to compre<g ref="char:EOLhyphen"/>hend the Perfection of the Divine Essence.</p>
+               <p>Notwithstanding what is re<g ref="char:EOLhyphen"/>vealed thereof as the Object of Faith, is replenished with im<g ref="char:EOLhyphen"/>mense Goodness and Beauty, to be the all-sufficient and necessary Felicity of an immortal Rational Creature: Thus the highest and deepest Mystery concerning the Deity, tho not possible to be in<g ref="char:EOLhyphen"/>vestigated by human Capacity, yet being revealed by the Word
+<pb n="100" facs="tcp:206472:51"/>of Divine Truth, necessarily con<g ref="char:EOLhyphen"/>strains the Understanding, Will and Affections to adore, believe, and receive in Love the Truth of this glorious Mystery.</p>
+               <p>The Manifestation of the Di<g ref="char:EOLhyphen"/>vine Essence cannot possibly be arrived at, but by such Revela<g ref="char:EOLhyphen"/>tion as God is pleased to make of himself.</p>
+               <p>
+                  <hi>No Man knoweth the Son but the Father;</hi>
+                  <note place="margin">Mat. 11.27.</note>
+                  <hi>neither knoweth any Man the Father, save the Son, and he to whomsoever the Son will reveal him.</hi>
+               </p>
+               <p>Neither can any Man say that Jesus is the Lord but by the Holy Ghost.
+<note place="margin">1 Cor. 12.3.</note> The Ladder of Divine Knowledg, by which the Mind ascends to God, the Top where<g ref="char:EOLhyphen"/>of reacheth to Heaven, is yet set upon the Earth.</p>
+               <p>For altho the very Light is a Covering to the Glory of God,
+<note place="margin">Psal. 104.2.</note> yet things material, visible, and humanly intelligible, present the
+<pb n="101" facs="tcp:206472:51"/>Shadows of excellent Evidence, subservient unto the incompre<g ref="char:EOLhyphen"/>hensible Perfection of Light and Truth of the Trinity in Unity of God the Father, Son and Holy Ghost, the only and true God, blessed for ever.</p>
+               <p>There are Signatures in the Nature of created Beings, to assist the Mind in its Ascent of ap<g ref="char:EOLhyphen"/>proach to behold the Goodness of the glorious Mystery of the Tri<g ref="char:EOLhyphen"/>nity of Persons in the Unity of the Divine Essence.</p>
+               <p>The Doctrine of the blessed Trinity is shadowed in all Be<g ref="char:EOLhyphen"/>ings, <hi>viz.</hi> a Trinity of Subsi<g ref="char:EOLhyphen"/>stences in Unity of Essence.</p>
+               <p>In every individual material Substance, there is Height, Length and Breadth.</p>
+               <p>In every the same Luminary Orb there is Light, Heat, fructi<g ref="char:EOLhyphen"/>fying Influence.</p>
+               <pb n="102" facs="tcp:206472:52"/>
+               <p>In every Man, Understanding, Will, Affection, yet the same univocal Soul.</p>
+               <p>In the Godhead was always acknowledged Entity, Truth, Goodness, subsisting in Unity, al<g ref="char:EOLhyphen"/>ways from the Foundation of the World declared to be eternal Truth of God.</p>
+               <p>The holy Scripture declares in the Trinity of the Godhead di<g ref="char:EOLhyphen"/>stinct Properties, yet one and the same Infinite Essence; and in e<g ref="char:EOLhyphen"/>very Person of the Godhead At<g ref="char:EOLhyphen"/>tributes incommunicable to any but God.</p>
+               <p>Creation of all things is assign<g ref="char:EOLhyphen"/>ed to the Son of God, to the eternal Word of God.</p>
+               <p>John 1.1, 2, 3. <hi>In the begin<g ref="char:EOLhyphen"/>ning was the Word, and the Word was with God, and the Word was God.</hi>
+               </p>
+               <p>
+                  <hi>The same was in the beginning with God.</hi>
+               </p>
+               <pb n="103" facs="tcp:206472:52"/>
+               <p>
+                  <hi>All things were made by him, and without him was not any thing made that was made.</hi>
+               </p>
+               <p>Both the Creation and the Sustentation of all things are assigned to the Son of God.</p>
+               <p>Heb. 1.1, 2, 3. <hi>God who at sundry times, and in divers man<g ref="char:EOLhyphen"/>ners spake in times past unto the Fathers by the Prophets,</hi>
+               </p>
+               <p>
+                  <hi>Hath in these last days spoken unto us by his Son, whom he hath appointed Heir of all things; by whom also he made the Worlds.</hi>
+               </p>
+               <p>
+                  <hi>Who being the Brightness of his Glory, and the express Image of his Person, and upholding all things by the Word of his Power, when he had by himself purged our Sins, sat down on the Right-hand of the Ma<g ref="char:EOLhyphen"/>jesty on high.</hi>
+               </p>
+               <p>The Knowledg of the Heart of every Man is assigned to the Son of God; <hi>Joh.</hi> 2.25. <hi>Who needed not that any should testify of Man, for he knew what was in Man.</hi>
+                  <pb n="104" facs="tcp:206472:53"/>Compared with 1 <hi>Kings</hi> 8.39. <hi>For thou, even thou only knowest the Hearts of all the Children of Men.</hi>
+               </p>
+               <p>
+                  <hi>Isa.</hi> 6.1, 5. the Prophet saith, <hi>I saw also the Lord sitting upon a Throne, high and lifted up.</hi>
+               </p>
+               <p>
+                  <hi>Then said I, Wo is me, for mine Eyes have seen the King the Lord of Hosts.</hi>
+               </p>
+               <p>This Vision of <hi>Jehova</hi> is ex<g ref="char:EOLhyphen"/>presly applied to our Lord Jesus Christ.</p>
+               <p>John 12.41. <hi>These things said</hi> Esaias, <hi>when he saw his Glory, and spake of him.</hi>
+               </p>
+               <p>Also <hi>Joh.</hi> 2.24, 25. <hi>But Jesus did not commit himself to them, because he knew all Men: And needed not that any should testify of Man; for he knew what was in Man.</hi>
+               </p>
+               <p>1 <hi>Joh.</hi> 5.20. speaking of Jesus Christ, <hi>This is the true God, and Eternal Life.</hi>
+               </p>
+               <pb n="105" facs="tcp:206472:53"/>
+               <p>Also to the Holy Ghost the Scripture assigns the Creation of the World: <hi>Gen.</hi> 1.2. <hi>And the Earth was without Form, and void, and Darkness was upon the Face of the Deep; and the Spirit of God moved upon the Face of the Waters. And God said, Let there be Light, and there was Light.</hi>
+               </p>
+               <p>Likewise the Works of Divine Providence; <hi>Isa.</hi> 63.10. <hi>But they rebelled, and vexed his holy Spirit, —Where is he that put his holy Spirit within him?</hi> The Spirit of the Lord caused him to rest; so didst thou lead thy People to make thy self a glorious Name.</p>
+               <p>The Work of Regeneration is ascribed to the Holy Ghost; John 3.5. <hi>Except a Man be born of the Water and of the Spirit, he cannot enter into the Kingdom of God.</hi> Tit. 3.5. <hi>According to his Mercy he saved us, by the washing of Regeneration, and renewing of the Holy Ghost.</hi>
+               </p>
+               <pb n="106" facs="tcp:206472:54"/>
+               <p>The Knowledg of secret Sins is ascribed to the Holy Ghost; Acts 5.3, 4. <hi>Why hath Satan filled thy Heart to lie to the Holy Ghost; thou hast not lied unto Men but un<g ref="char:EOLhyphen"/>to God.</hi>
+               </p>
+               <p>Likewise the Sin against the Holy Ghost is declared to be un<g ref="char:EOLhyphen"/>pardonable; Mark 3.29. <hi>He that shall blaspheme against the Holy Ghost, hath never Forgiveness, but is in danger of Damnation.</hi>
+               </p>
+               <p>These and many other Scrip<g ref="char:EOLhyphen"/>tures evidence the Truth of the Unity of Essence in the Trinity of the Divine Persons; <hi>Joh.</hi> 10.30. <hi>I and my Father are one.</hi> 1 John 5.7. <hi>For there are three that bear Record in Heaven, the Father, the Word, and the Holy Ghost; and these three are one.</hi> Compare also 2 <hi>Tim.</hi> 3.16. <hi>All Scripture is given by Inspiration of God.</hi> And 2 <hi>Pet.</hi> 1.21. <hi>Holy Men of God spake as they were moved by the Holy Ghost.</hi>
+               </p>
+               <pb n="107" facs="tcp:206472:54"/>
+               <p>Likewise in the last words of <hi>David,</hi> 2 Sam. 23.2, 3. <hi>The Spi<g ref="char:EOLhyphen"/>rit of the Lord spake by me, and his VVord was in my Tongue; the God of</hi> Israel <hi>said,</hi> &amp;c. Thus the Doctrine of the blessed Trinity is not meerly Notional, but Real; it is not fictitious, but eternally true; it is infinitely good, there<g ref="char:EOLhyphen"/>fore necessary to be believed, and adoringly received in Love as the Principle of Felicity to Intel<g ref="char:EOLhyphen"/>lectual Creatures.</p>
+               <p>The Divine Trinity is Incom<g ref="char:EOLhyphen"/>prehensible, therefore to be ado<g ref="char:EOLhyphen"/>red, not doubted, nor subjected to Human Argumentation, which cannot illustrate that which in all respects necessarily excels all Methods of finite Proof or Evi<g ref="char:EOLhyphen"/>dence, tho the Reality and Effi<g ref="char:EOLhyphen"/>cacy thereof be most certainly and feelingly perceived and enjoyed.</p>
+               <p>The curious Inquiry is like ga<g ref="char:EOLhyphen"/>zing upon the Sun, which dazles our weak Eyes.</p>
+               <pb n="108" facs="tcp:206472:55"/>
+               <p>For now we see through a Glass,
+<note place="margin">1 Cor. 13.12.</note> darkly; now we know in part: but when we shall know even as also we are known, when we are brought into the third Heaven,
+<note place="margin">2 Cor. 12.4.</note> then we shall hear those unspeakable words which in this State of Mortality are not possi<g ref="char:EOLhyphen"/>ble to be uttered, fully to reveal the Glory of the Divine Tri<g ref="char:EOLhyphen"/>nity. What the Lord said unto <hi>Moses,</hi> is also spoken unto us; We cannot see the Glory of God and live; but the Lord maketh his Goodness pass before us,
+<note place="margin">Exod. 33.19, 20.</note> and pro<g ref="char:EOLhyphen"/>claims his Name before us, that he will be gracious to whom he will be gracious, and will shew Mercy on whom he will shew Mercy; according to the eternal Election of God the Father, and the Redemption by God the Son, and Sanctification by God the Holy Ghost, into which Truth all Believers who shall be saved, are baptized.</p>
+               <pb n="109" facs="tcp:206472:55"/>
+               <p>The Duty of common Philan<g ref="char:EOLhyphen"/>thropy obliges deeply to grieve at the Folly and Madness of Epi<g ref="char:EOLhyphen"/>curean Sensualists, who renounce the Glory of the Image of God, and the hope of immortal Feli<g ref="char:EOLhyphen"/>city, and corrupt themselves to be like natural Brute Beasts, made to be taken and destroyed, vainly imagining to evade the impartial Justice of the Almighty God, with whom is terrible Majesty.</p>
+               <p>No less miserable are the Pro<g ref="char:EOLhyphen"/>fane, who take up a scoffing Name of Deist to act the Atheist, renouncing the Fear of God which is the only Bond of Human So<g ref="char:EOLhyphen"/>ciety, and rejecting Hope in God, which is the only distinguishing Excellency of Man above the Beasts that perish.</p>
+               <p>Unreasonable also is the Pride of those who deny the predesti<g ref="char:EOLhyphen"/>nating Prescience of God the Fa<g ref="char:EOLhyphen"/>ther,
+<note place="margin">Rom. 1.23.</note> changing the Glory of the Incorruptible God into the Image
+<pb n="110" facs="tcp:206472:56"/>of corruptible Man; as if they thought God to be altogether such an one as themselves,
+<note place="margin">Psal. 50.21.</note> who upon any Disappointment or unexpect<g ref="char:EOLhyphen"/>ed Accident, endeavour to patch up a Remedy for unforeseen In<g ref="char:EOLhyphen"/>convenience. But let the Pot<g ref="char:EOLhyphen"/>sherds of the Earth strive with,
+<note place="margin">Isa. 45.9.</note> and discourse of the Potsherds of the Earth.</p>
+               <p>But unto the eternal Wisdom of God are known all his Works from the beginning of the World, according to that determinate Counsel and Knowledg of his own Will,
+<note place="margin">Acts. 2.23.</note> who hath appointed all things that ever shall come to pass, and all for his own Glory; so that not any the least thing, even the falling of a Sparrow to the Ground,
+<note place="margin">Matth. 10.29, 30.</note> befals by chance, but by Divine Appointment.</p>
+               <p>Also the most flagitious Wic<g ref="char:EOLhyphen"/>kedness that ever was contrived and acted, even the crucifying the Prince of Life, was to fulfil
+<pb n="111" facs="tcp:206472:56"/>the determinate Counsel of God, for this very end to accomplish the highest Exaltation of Divine Glory and Goodness in the Salva<g ref="char:EOLhyphen"/>tion of Man.</p>
+               <p>Which Salvation likewise is made effectual only to such as are ordained to Eternal Life.
+<note place="margin">Act. 13.48.</note>
+               </p>
+               <p>They also deny the meritorious Satisfaction to the infinite Justice of God by the Death and Righ<g ref="char:EOLhyphen"/>teousness of Jesus Christ, for the Redemption of Sinners from Wrath to come; by which mise<g ref="char:EOLhyphen"/>rable Error is effectually and re<g ref="char:EOLhyphen"/>ally denied and evacuated the Essential Justice of God.</p>
+               <p>They also deny the necessity of the Almighty efficacious Grace of the Spirit of God to sanctify, regenerate and quicken those that are naturally dead in Trespasses and Sins, under that Corruption and Impotence, wherein all are alienated from the Life of God.</p>
+               <pb n="112" facs="tcp:206472:57"/>
+               <p>Now concerning the words used by the Orthodox to express the Mystery of the Divine Tri<g ref="char:EOLhyphen"/>nity:</p>
+               <p>It ought to be considered, that Words of Rational Speech being the Signatures of Things, there are many more things to be ex<g ref="char:EOLhyphen"/>pressed than are words to repre<g ref="char:EOLhyphen"/>sent them: For such is the Po<g ref="char:EOLhyphen"/>verty of every the most copious Language, that there is necessity to apply the same syllabical Word to signify various and different things, which yet receive the Certainty of Interpretation from the Rational Contexture of the respective Discourse.</p>
+               <p>Thus in the Controversies raised by Heretical Blasphemers against the Doctrine of the blessed Tri<g ref="char:EOLhyphen"/>nity.</p>
+               <p>The Orthodox to vindicate the Truth of the Scriptures, which abundantly testify both the Essen<g ref="char:EOLhyphen"/>tial Unity, and the distinct Pro<g ref="char:EOLhyphen"/>perties
+<pb n="113" facs="tcp:206472:57"/>of God the Father, God the Son, and God the Holy Ghost, have made use of several words, as <hi>Person</hi> and <hi>Co-essential,</hi> to express and signify the Scriptu<g ref="char:EOLhyphen"/>ral Truth of the Identical Sub<g ref="char:EOLhyphen"/>stance and distinct Properties of the Divine Trinity in Unity.</p>
+               <p>Therefore the possession and use of the aforesaid Words or Phrases are duly retained by the Church, according to the Mean<g ref="char:EOLhyphen"/>ing and Intention clearly made known in the holy Scriptures, which ascribe, as before mentio<g ref="char:EOLhyphen"/>ned, unto the Father, unto the Son, and unto the Holy Ghost, Attributes of Essential Divine Perfection, incommunicable to any but unto the only living and true God, who from everlasting to ever<g ref="char:EOLhyphen"/>lasting, is God blessed for ever.</p>
+               <p>Religious Worship being the absolute Soveraignty of the only living and true God, both in re<g ref="char:EOLhyphen"/>spect of the Object of Worship,
+<pb n="114" facs="tcp:206472:58"/>which <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> only be God; and in respect of the Rule of Worship, which can only be appointed by God: For all other Objects of Worship are despicable vain Idols, and all Rules, Mediums and <gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s of Religion not instituted by God, are blasphemous De<g ref="char:EOLhyphen"/>traction from the Truth and Ma<g ref="char:EOLhyphen"/>jesty of God. It must therefore be that the great Temptation to Atheism is Superstition; that is, a Human Composition of Reli<g ref="char:EOLhyphen"/>gion, when the Fear (that is, the Worship of God) is taught by the Precepts of Men.</p>
+               <p>The course of Rational Argu<g ref="char:EOLhyphen"/>mentation carrying the Mind to infer, that if the Object of Ado<g ref="char:EOLhyphen"/>ration must be obliged to depend upon the Will and Fancy of Hu<g ref="char:EOLhyphen"/>man Imposition, how, and when, and with what Mediums or Ce<g ref="char:EOLhyphen"/>remonies it shall be adored: Then the Deity must become a meer Fiction, and such Religion no<g ref="char:EOLhyphen"/>thing
+<pb n="115" facs="tcp:206472:58"/>but an Idol-Contrivance of the crafty, or the foolish: Such Superstition being sacrilegious Invasion of the Divine Majesty, to institute or practise any Rite, Formulary, or Ceremony in Reli<g ref="char:EOLhyphen"/>gion not commanded by God, or otherwise than God hath com<g ref="char:EOLhyphen"/>manded:
+<note place="margin">Isa. 33.22.</note> because God only can be the Law-giver of his own Worship; for all other Worship falls short of Acceptance with God, consequently cannot make the Worshipper happy, but pre<g ref="char:EOLhyphen"/>pares for an Atheistical Rejection of all Religion. The most re<g ref="char:EOLhyphen"/>fined Human Intelligence could never find out to Perfection the Works of God, which are the Objects of our Sense; so as fully to discover the Formation, Tex<g ref="char:EOLhyphen"/>ture, Consistence and compleat Use and End of created Beings. Who can fully understand the glo<g ref="char:EOLhyphen"/>rious Orbs of Light which dazle the Beholder?
+<note place="margin">Psal. 150.1.</note> Who knows the
+<pb n="116" facs="tcp:206472:59"/>firmament of his Power? Who knows <hi>the Ballancings of the Clouds <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he wondrous Works of him which <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s perfect in Knowledg? how the Garments are warm, when he quiet<g ref="char:EOLhyphen"/>eth the Earth by the South Wind?</hi>
+               </p>
+               <p>The very Augmentation of Stones and other Subterranean Materials, the Growth of Vege<g ref="char:EOLhyphen"/>tables, the Production, Genera<g ref="char:EOLhyphen"/>tion, Use and Operation of Ani<g ref="char:EOLhyphen"/>mals, even of the most despicable Insects, have escaped, and surpassed the diligent Inquiry of the most sagacious Pretenders: The Cer<g ref="char:EOLhyphen"/>tainty of all which having only Substance and Evidence in Faith by which we understand that the World was made by the Word of God;
+<note place="margin">Heb. 11.1, 3</note> so that things which are seen are not made of things which do appear.</p>
+               <p>But who can by searching find out God?
+<note place="margin">Job 11.7, 8.</note> Or, who can find out the Almighty unto Perfection? <hi>It is as high as Heaven, what
+<pb n="117" facs="tcp:206472:59"/>canst thou do? deeper th<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat canst thou know?</hi>
+                  <note place="margin">Jo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7.3.</note>
+                  <hi>Yet this is Life Eternal, to know the only true God, and Jesus Christ whom he hath sent.</hi>
+               </p>
+               <p>The Mysteries of the Divine Trinity, and of the Incarnatio<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Jesus Christ, God manifes<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the Flesh, must necessarily ranscend the Comprehension of any finite created Intelligence. But tho the Love of Christ passeth Knowledg, it is impossible for sinful Man to be delivered and saved from Wrath to come, that is, from eternal Death, but by <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nfeigned Faith in God the Fa<g ref="char:EOLhyphen"/>ther to be just,
+<note place="margin">Rom. 3.26.</note> and the Justifier of an ungodly Sinner,
+<note place="margin">&amp; 4.5.</note> which be<g ref="char:EOLhyphen"/>lieveth in Jesus; in God the Son, who only is able to save to the utmost, having by himself purged us from our Sins, and satisfied Divine Justice, is only capable to be an everlasting Mediator of Redemption and Intercession:
+<pb n="118" facs="tcp:206472:60"/>Also in God the Holy Ghost, who only can regenerate and sanctify a Sinner, to be received into Communion of Life with God for ever.</p>
+               <p>Now for a Golden Clasp to the rehearsed Truths, none of them being of private Fancy or Inven<g ref="char:EOLhyphen"/>tion, duly consider the two fir<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Articles of Religion, being the Doctrine of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> published in the beginning of the Reformation, confirmed by Act of Parliament, and con<g ref="char:EOLhyphen"/>tinually subscribed by the Cler<g ref="char:EOLhyphen"/>gy.</p>
+            </div>
+         </div>
+         <div type="articles">
+            <pb facs="tcp:206472:60"/>
+            <head>Articles of Religion</head>
+            <div n="1" type="article">
+               <head>I. Of Faith in the Holy Trin</head>
+               <p>THere is but one living in true God, everlasting, with<g ref="char:EOLhyphen"/>out Body, Parts, or Passions, of Infinite Power, Wisdom and Good<g ref="char:EOLhyphen"/>ness, the Maker and Preserver of all things, both visible or invisible. And in Ʋnity of this Godhead, there be Three Persons of one Sub<g ref="char:EOLhyphen"/>stance, Power and Eternity, the Fa<g ref="char:EOLhyphen"/>ther, Son, and the Holy Ghost.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II. Of the Justification of Man.</head>
+               <p>
+                  <hi>WE are accounted righteous before God, only for the Merit of our Lord and Saviour Jesus Christ, by Faith, and not for
+<pb facs="tcp:206472:61"/>our own Works, or Deservings: Wherefore that we are justified by Faith only, is a most wholsom Doctrine, and very full of Com<g ref="char:EOLhyphen"/>fort, as more largely is expressed in the Homily of Justification.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:206472:61"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
